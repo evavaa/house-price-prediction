@@ -1,0 +1,588 @@
+School_Name,LGA_Name,weighted_score
+ballarat clarendon college,Ballarat (C),0.978936176107066
+bialik college,Boroondara (C),0.978936176107066
+mount scopus memorial college,Whitehorse (C),0.9690449432667166
+mallacoota p-12 college,East Gippsland (S),0.9690449432667166
+huntingtower school,Monash (C),0.955586774374756
+macrobertson girls high school,Port Phillip (C),0.955586774374756
+korowa anglican girls school,Stonnington (C),0.955586774374756
+ruyton girls school,Boroondara (C),0.9377679468360076
+haileybury girls college,Greater Dandenong (C),0.9377679468360076
+beth rivkah ladies college,Glen Eira (C),0.9377679468360076
+camberwell girls grammar school,Boroondara (C),0.9377679468360076
+melbourne high school,Stonnington (C),0.9377679468360076
+haileybury college,Greater Dandenong (C),0.9377679468360076
+strathcona baptist girls grammar school,Boroondara (C),0.9377679468360076
+st kevins college,Stonnington (C),0.9377679468360076
+loreto mandeville hall,Stonnington (C),0.9377679468360076
+trinity grammar school,Boroondara (C),0.9377679468360076
+shelford girls grammar,Glen Eira (C),0.9377679468360076
+firbank grammar school,Bayside (C),0.9377679468360076
+kilvington grammar school,Glen Eira (C),0.9377679468360076
+the king david school,Stonnington (C),0.9377679468360076
+yeshivah college,Glen Eira (C),0.9148101664571066
+scotch college,Boroondara (C),0.9148101664571066
+leibler yavneh college,Glen Eira (C),0.9148101664571066
+camberwell grammar school,Boroondara (C),0.9148101664571066
+methodist ladies college,Boroondara (C),0.9148101664571066
+melbourne grammar school,Melbourne (C),0.9148101664571066
+genazzano f.c.j. college,Boroondara (C),0.9148101664571066
+sacre coeur,Stonnington (C),0.9148101664571066
+caulfield grammar school caulfield,Glen Eira (C),0.9148101664571066
+penleigh and essendon grammar school,Moonee Valley (C),0.9148101664571066
+mentone girls grammar school,Kingston (C),0.9148101664571066
+mentone grammar school,Kingston (C),0.9148101664571066
+nossal high school,Casey (C),0.9148101664571066
+lauriston girls school,Stonnington (C),0.9148101664571066
+st catherines school,Stonnington (C),0.9148101664571066
+presbyterian ladies college,Whitehorse (C),0.9148101664571066
+star of the sea college,Bayside (C),0.9148101664571066
+goroke p-12 college,West Wimmera (S),0.8860270171706128
+melbourne girls grammar,Melbourne (C),0.8860270171706128
+toorak college,Mornington Peninsula (S),0.8860270171706128
+eltham college of education,Nillumbik (S),0.8860270171706128
+lowther hall anglican grammar school,Moonee Valley (C),0.8860270171706128
+yarra valley grammar school,Maroondah (C),0.8860270171706128
+ivanhoe girls grammar school,Banyule (C),0.8860270171706128
+balwyn high school,Boroondara (C),0.8860270171706128
+fintona girls school,Boroondara (C),0.8860270171706128
+east loddon p-12 college,Loddon (S),0.8860270171706128
+st margarets school,Casey (C),0.8860270171706128
+ivanhoe grammar school,Banyule (C),0.8860270171706128
+peninsula grammar,Mornington Peninsula (S),0.8860270171706128
+john monash science school,Monash (C),0.8860270171706128
+xavier college,Boroondara (C),0.8860270171706128
+westbourne grammar school,Wyndham (C),0.8860270171706128
+suzanne cory high school,Wyndham (C),0.8860270171706128
+brighton grammar school,Bayside (C),0.8509110704998892
+goulburn valley grammar school,Greater Shepparton (C),0.8509110704998892
+victorian college of the arts secondary school,Melbourne (C),0.8509110704998892
+melbourne girls college,Yarra (C),0.8509110704998892
+the geelong college,Greater Geelong (C),0.8509110704998892
+mckinnon secondary college,Glen Eira (C),0.8509110704998892
+waverley christian college,Knox (C),0.8509110704998892
+wesley college st kilda rd,Melbourne (C),0.8509110704998892
+box hill high school,Whitehorse (C),0.8509110704998892
+st leonards college,Bayside (C),0.8509110704998892
+our lady of sion college,Whitehorse (C),0.8509110704998892
+glen waverley secondary college,Monash (C),0.8509110704998892
+siena college,Boroondara (C),0.8509110704998892
+carey baptist grammar school,Boroondara (C),0.8509110704998892
+donvale christian college,Manningham (C),0.8509110704998892
+woodleigh school,Frankston (C),0.8509110704998892
+our lady of mercy college,Banyule (C),0.8509110704998892
+ave maria college,Moonee Valley (C),0.8509110704998892
+koonung secondary college,Whitehorse (C),0.8509110704998892
+nunawading christian college,Whitehorse (C),0.8509110704998892
+university high school,Melbourne (C),0.8092214325615634
+alphington grammar school,Yarra (C),0.8092214325615634
+ballarat grammar school,Ballarat (C),0.8092214325615634
+st michaels grammar school,Port Phillip (C),0.8092214325615634
+st pauls anglican grammar school,Baw Baw (S),0.8092214325615634
+kardinia international college,Greater Geelong (C),0.8092214325615634
+kingswood college,Whitehorse (C),0.8092214325615634
+canterbury girls secondary college,Boroondara (C),0.8092214325615634
+kew high school,Boroondara (C),0.8092214325615634
+sacred heart girls college,Monash (C),0.8092214325615634
+frankston high school,Frankston (C),0.8092214325615634
+gippsland grammar,Wellington (S),0.8092214325615634
+girton grammar school,Greater Bendigo (C),0.8092214325615634
+sacred heart college geelong,Greater Geelong (C),0.8092214325615634
+mazenod college,Monash (C),0.8092214325615634
+st aloysius college,Melbourne (C),0.8092214325615634
+st columbas college,Moonee Valley (C),0.8092214325615634
+braemar college,Macedon Ranges (S),0.8092214325615634
+oxley christian college,Yarra Ranges (S),0.8092214325615634
+vermont secondary college,Whitehorse (C),0.8092214325615634
+east doncaster secondary college,Manningham (C),0.8092214325615634
+our lady of sacred heart college,Glen Eira (C),0.8092214325615634
+princes hill secondary college,Yarra (C),0.8092214325615634
+sirius college,Hume (C),0.8092214325615634
+camperdown college,Corangamite (S),0.8092214325615634
+avila college,Monash (C),0.8092214325615634
+viewbank college,Banyule (C),0.8092214325615634
+mount waverley secondary college,Monash (C),0.8092214325615634
+narre warren south p-12 college,Casey (C),0.8092214325615634
+luther college,Maroondah (C),0.8092214325615634
+the knox school,Knox (C),0.8092214325615634
+kings college,Warrnambool (C),0.8092214325615634
+southern cross grammar,Melton (C),0.8092214325615634
+casterton secondary college,Glenelg (S),0.8092214325615634
+boort district p-12 school,Loddon (S),0.761058873930649
+edinburgh college,Yarra Ranges (S),0.761058873930649
+st josephs college geelong,Greater Geelong (C),0.761058873930649
+mount st joseph girls college,Hobsons Bay (C),0.761058873930649
+st andrews christian college,Knox (C),0.761058873930649
+santa maria college,Darebin (C),0.761058873930649
+emmaus college,Whitehorse (C),0.761058873930649
+highvale secondary college,Monash (C),0.761058873930649
+whitefriars college,Manningham (C),0.761058873930649
+bacchus marsh grammar,Moorabool (S),0.761058873930649
+marian college myrtleford,Alpine (S),0.761058873930649
+albert park college,Port Phillip (C),0.761058873930649
+werribee secondary college,Wyndham (C),0.761058873930649
+williamstown high school,Hobsons Bay (C),0.761058873930649
+parade college,Banyule (C),0.761058873930649
+tintern grammar,Maroondah (C),0.761058873930649
+darul ulum college of victoria,Moreland (C),0.761058873930649
+the hamilton and alexandra college,Southern Grampians (S),0.761058873930649
+billanook college,Yarra Ranges (S),0.761058873930649
+salesian college chadstone,Monash (C),0.761058873930649
+balcombe grammar school,Mornington Peninsula (S),0.761058873930649
+de la salle college,Stonnington (C),0.761058873930649
+kilbreda college,Kingston (C),0.761058873930649
+marcellin college,Manningham (C),0.761058873930649
+catholic ladies college,Nillumbik (S),0.761058873930649
+loreto college,Ballarat (C),0.761058873930649
+alice miller school,Macedon Ranges (S),0.761058873930649
+academy of mary immaculate,Yarra (C),0.761058873930649
+dimboola memorial secondary college,Hindmarsh (S),0.761058873930649
+strathmore secondary college,Moonee Valley (C),0.761058873930649
+killester college,Greater Dandenong (C),0.761058873930649
+thornbury high school,Darebin (C),0.761058873930649
+birchip p-12 school,Buloke (S),0.761058873930649
+mater christi college,Yarra Ranges (S),0.761058873930649
+loyola college,Banyule (C),0.761058873930649
+myrtleford p-12 college,Alpine (S),0.761058873930649
+wedderburn college,Loddon (S),0.761058873930649
+lighthouse christian college,Greater Dandenong (C),0.761058873930649
+dromana secondary college,Mornington Peninsula (S),0.761058873930649
+tyrrell college,Buloke (S),0.761058873930649
+heatherton christian college,Kingston (C),0.7069150813488889
+elwood college,Port Phillip (C),0.7069150813488889
+lakes entrance secondary college,East Gippsland (S),0.7069150813488889
+covenant college,Greater Geelong (C),0.7069150813488889
+newhaven college,Bass Coast (S),0.7069150813488889
+presentation college,Stonnington (C),0.7069150813488889
+casey grammar school,Casey (C),0.7069150813488889
+auburn high school,Boroondara (C),0.7069150813488889
+f.c.j. college,Benalla (RC),0.7069150813488889
+heathdale christian college,Wyndham (C),0.7069150813488889
+northcote high school,Darebin (C),0.7069150813488889
+buckley park college,Moonee Valley (C),0.7069150813488889
+mentone girls secondary college,Kingston (C),0.7069150813488889
+corryong college,Towong (S),0.7069150813488889
+st bernards college,Moonee Valley (C),0.7069150813488889
+st josephs college mildura,Mildura (RC),0.7069150813488889
+braybrook college,Maribyrnong (C),0.7069150813488889
+clonard college,Greater Geelong (C),0.7069150813488889
+ringwood secondary college,Maroondah (C),0.7069150813488889
+st bedes college,Kingston (C),0.7069150813488889
+geelong grammar school,Greater Geelong (C),0.7069150813488889
+sandringham college,Bayside (C),0.7069150813488889
+simonds catholic college,Melbourne (C),0.7069150813488889
+glen eira college,Glen Eira (C),0.7069150813488889
+lighthouse christian college cranbourne,Casey (C),0.7069150813488889
+aquinas college,Maroondah (C),0.7069150813488889
+camberwell high school,Boroondara (C),0.7069150813488889
+maranatha christian school,Casey (C),0.7069150813488889
+christian college geelong waurun ponds,Greater Geelong (C),0.7069150813488889
+hume anglican grammar,Hume (C),0.7069150813488889
+mackillop catholic regional college,Wyndham (C),0.7069150813488889
+plenty valley christian college,Nillumbik (S),0.7069150813488889
+ilim college,Hume (C),0.7069150813488889
+sacred heart college kyneton,Macedon Ranges (S),0.7069150813488889
+kambrya college,Casey (C),0.7069150813488889
+marymede catholic college,Whittlesea (C),0.7069150813488889
+st monicas college,Whittlesea (C),0.7069150813488889
+beaconhills college,Cardinia (S),0.7069150813488889
+eltham high school,Nillumbik (S),0.7069150813488889
+padua college,Mornington Peninsula (S),0.7069150813488889
+parkdale secondary college,Kingston (C),0.7069150813488889
+st josephs college ferntree gully,Knox (C),0.7069150813488889
+northside christian college,Whittlesea (C),0.7069150813488889
+ashwood high school,Monash (C),0.7069150813488889
+sunbury downs secondary college,Hume (C),0.7069150813488889
+mercy college,Moreland (C),0.7069150813488889
+marist sion college,Baw Baw (S),0.7069150813488889
+oakleigh grammar,Monash (C),0.7069150813488889
+good shepherd college,Southern Grampians (S),0.7069150813488889
+overnewton anglican college,Brimbank (C),0.7069150813488889
+cranbourne east secondary college,Casey (C),0.7069150813488889
+charlton college,Buloke (S),0.7069150813488889
+ballarat christian college,Ballarat (C),0.647684567570735
+cohuna secondary college,Gannawarra (S),0.647684567570735
+catherine mcauley college,Greater Bendigo (C),0.647684567570735
+catholic college sale,Wellington (S),0.647684567570735
+foster secondary college,South Gippsland (S),0.647684567570735
+cheltenham secondary college,Kingston (C),0.647684567570735
+st francis xavier college,Cardinia (S),0.647684567570735
+templestowe college,Manningham (C),0.647684567570735
+blackburn high school,Whitehorse (C),0.647684567570735
+nazareth college,Greater Dandenong (C),0.647684567570735
+brighton secondary college,Bayside (C),0.647684567570735
+st patricks college,Ballarat (C),0.647684567570735
+belgrave heights christian school,Yarra Ranges (S),0.647684567570735
+marian college sunshine west,Brimbank (C),0.647684567570735
+brentwood secondary college,Monash (C),0.647684567570735
+norwood secondary college,Maroondah (C),0.647684567570735
+brunswick secondary college,Moreland (C),0.647684567570735
+korumburra secondary college,South Gippsland (S),0.647684567570735
+st marys coptic orthodox college,Hume (C),0.647684567570735
+christian brothers college,Port Phillip (C),0.647684567570735
+melbourne rudolf steiner school,Maroondah (C),0.647684567570735
+st brigids college,Horsham (RC),0.647684567570735
+kaniva p-12 college,West Wimmera (S),0.647684567570735
+montmorency secondary college,Banyule (C),0.647684567570735
+st mary mackillop college,Swan Hill (RC),0.647684567570735
+aitken college,Hume (C),0.647684567570735
+rainbow p-12 college,Hindmarsh (S),0.647684567570735
+wellington secondary college,Monash (C),0.647684567570735
+flinders christian community college,Mornington Peninsula (S),0.647684567570735
+chairo christian school,Baw Baw (S),0.647684567570735
+hillcrest christian college,Casey (C),0.647684567570735
+galen college,Wangaratta (RC),0.647684567570735
+mount evelyn christian school,Yarra Ranges (S),0.647684567570735
+emerald secondary college,Cardinia (S),0.647684567570735
+st albans secondary college,Brimbank (C),0.647684567570735
+doncaster secondary college,Manningham (C),0.647684567570735
+john paul college,Frankston (C),0.647684567570735
+emmanuel college melbourne,Hobsons Bay (C),0.647684567570735
+mullauna college,Whitehorse (C),0.647684567570735
+catholic regional college sydenham,Brimbank (C),0.647684567570735
+gilson college,Melton (C),0.647684567570735
+mordialloc college,Kingston (C),0.647684567570735
+salesian college,Hume (C),0.647684567570735
+ballarat high school,Ballarat (C),0.647684567570735
+bayside christian college,Frankston (C),0.647684567570735
+berwick secondary college,Casey (C),0.647684567570735
+st helena secondary college,Banyule (C),0.647684567570735
+mcclelland secondary college,Frankston (C),0.647684567570735
+oberon high school,Greater Geelong (C),0.647684567570735
+victory lutheran college,Wodonga (C),0.647684567570735
+nagle college,East Gippsland (S),0.647684567570735
+epping secondary college,Whittlesea (C),0.647684567570735
+lakeview senior college,Melton (C),0.647684567570735
+maribyrnong secondary college,Maribyrnong (C),0.647684567570735
+sunshine college,Brimbank (C),0.647684567570735
+rosehill secondary college,Moonee Valley (C),0.647684567570735
+lilydale high school,Yarra Ranges (S),0.647684567570735
+mount lilydale mercy college,Yarra Ranges (S),0.647684567570735
+st mary of the angels college,Moira (S),0.647684567570735
+cann river p-12 college,East Gippsland (S),0.647684567570735
+hazel glen college,Whittlesea (C),0.647684567570735
+neerim district secondary college,Baw Baw (S),0.647684567570735
+south oakleigh secondary college,Monash (C),0.5846323977031205
+victory christian college,Greater Bendigo (C),0.5846323977031205
+emmanuel college warrnambool,Warrnambool (C),0.5846323977031205
+mount eliza secondary college,Mornington Peninsula (S),0.5846323977031205
+warracknabeal secondary college,Yarriambiack (S),0.5846323977031205
+belmont high school,Greater Geelong (C),0.5846323977031205
+hoppers crossing secondary college,Wyndham (C),0.5846323977031205
+lavalla catholic college,Latrobe (C),0.5846323977031205
+mooroolbark college,Yarra Ranges (S),0.5846323977031205
+castlemaine secondary college,Mount Alexander (S),0.5846323977031205
+islamic college of melbourne,Wyndham (C),0.5846323977031205
+koo wee rup secondary college,Cardinia (S),0.5846323977031205
+horsham college,Horsham (RC),0.5846323977031205
+sacred heart college yarrawonga,Moira (S),0.5846323977031205
+bentleigh secondary college,Glen Eira (C),0.5846323977031205
+fitzroy high school,Yarra (C),0.5846323977031205
+st josephs college echuca,Campaspe (S),0.5846323977031205
+damascus college,Ballarat (C),0.5846323977031205
+diamond valley college,Nillumbik (S),0.5846323977031205
+notre dame college,Greater Shepparton (C),0.5846323977031205
+assumption college,Mitchell (S),0.5846323977031205
+marist college bendigo,Greater Bendigo (C),0.5846323977031205
+mary mackillop catholic college,South Gippsland (S),0.5846323977031205
+alkira secondary college,Casey (C),0.5846323977031205
+melba secondary college,Maroondah (C),0.5846323977031205
+healesville high school,Yarra Ranges (S),0.5846323977031205
+alexandra secondary college,Murrindindi (S),0.5846323977031205
+heritage college,Casey (C),0.5846323977031205
+murtoa p-12 college,Yarriambiack (S),0.5846323977031205
+drouin secondary college,Baw Baw (S),0.5846323977031205
+catholic college wodonga,Wodonga (C),0.5846323977031205
+gladstone park secondary college,Hume (C),0.5846323977031205
+virtual school victoria,Darebin (C),0.5846323977031205
+bright p-12 college,Alpine (S),0.5846323977031205
+caroline chisholm catholic college,Maribyrnong (C),0.5846323977031205
+penola catholic college,Hume (C),0.5846323977031205
+geelong lutheran college,Greater Geelong (C),0.5846323977031205
+point cook senior secondary college,Wyndham (C),0.5846323977031205
+donald high school,Buloke (S),0.5846323977031205
+rosebud secondary college,Mornington Peninsula (S),0.5846323977031205
+monivae college,Southern Grampians (S),0.5846323977031205
+surf coast secondary college,Surf Coast (S),0.5846323977031205
+cornish college,Greater Dandenong (C),0.5846323977031205
+mount erin college,Frankston (C),0.5846323977031205
+broadford secondary college,Mitchell (S),0.5846323977031205
+maryborough education centre,Central Goldfields (S),0.5846323977031205
+cobram secondary college,Moira (S),0.5846323977031205
+copperfield college,Brimbank (C),0.5846323977031205
+apollo bay p-12 college,Colac-Otway (S),0.5846323977031205
+melton secondary college,Melton (C),0.5846323977031205
+catholic regional college melton,Melton (C),0.5846323977031205
+bayview college,Glenelg (S),0.5846323977031205
+manangatang p-12 college,Swan Hill (RC),0.5846323977031205
+murrayville community college,Mildura (RC),0.5193174942564099
+collingwood college,Yarra (C),0.5193174942564099
+shepparton christian college,Greater Shepparton (C),0.5193174942564099
+wycheproof p-12 college,Buloke (S),0.5193174942564099
+gleneagles secondary college,Casey (C),0.5193174942564099
+leongatha secondary college,South Gippsland (S),0.5193174942564099
+maffra secondary college,Wellington (S),0.5193174942564099
+mortlake college,Moyne (S),0.5193174942564099
+geelong baptist college,Greater Geelong (C),0.5193174942564099
+reservoir high school,Darebin (C),0.5193174942564099
+tallangatta secondary college,Towong (S),0.5193174942564099
+wangaratta high school,Wangaratta (RC),0.5193174942564099
+wantirna college,Knox (C),0.5193174942564099
+william ruthven secondary college,Darebin (C),0.5193174942564099
+pascoe vale girls secondary college,Moreland (C),0.5193174942564099
+seymour college,Mitchell (S),0.5193174942564099
+staughton college,Melton (C),0.5193174942564099
+swinburne senior secondary college,Boroondara (C),0.5193174942564099
+terang college,Corangamite (S),0.5193174942564099
+wonthaggi secondary college,Bass Coast (S),0.5193174942564099
+al-taqwa college,Wyndham (C),0.5193174942564099
+northern college of arts and technology,Darebin (C),0.5193174942564099
+wheelers hill secondary college,Monash (C),0.5193174942564099
+brauer college,Warrnambool (C),0.5193174942564099
+mildura senior college,Mildura (RC),0.5193174942564099
+elisabeth murdoch college,Frankston (C),0.5193174942564099
+monbulk college,Yarra Ranges (S),0.5193174942564099
+victoria university secondary college,Brimbank (C),0.5193174942564099
+lyndhurst secondary college,Casey (C),0.5193174942564099
+warragul regional college,Baw Baw (S),0.5193174942564099
+mirboo north secondary college,South Gippsland (S),0.5193174942564099
+wyndham central secondary college,Wyndham (C),0.5193174942564099
+mount alexander 7-12 college,Moonee Valley (C),0.5193174942564099
+rochester secondary college,Campaspe (S),0.5193174942564099
+echuca college,Campaspe (S),0.5193174942564099
+mercy regional college,Corangamite (S),0.5193174942564099
+orbost secondary college,East Gippsland (S),0.5193174942564099
+warrnambool college,Warrnambool (C),0.5193174942564099
+antonine college,Moreland (C),0.5193174942564099
+kurnai college,Latrobe (C),0.5193174942564099
+minaret college springvale,Greater Dandenong (C),0.5193174942564099
+nhill college,Hindmarsh (S),0.5193174942564099
+cathedral college,Wangaratta (RC),0.5193174942564099
+kerang technical high school,Gannawarra (S),0.5193174942564099
+thomas carr college,Wyndham (C),0.5193174942564099
+mountain district christian school,Yarra Ranges (S),0.5193174942564099
+cranbourne secondary college,Casey (C),0.5193174942564099
+keysborough secondary college,Greater Dandenong (C),0.5193174942564099
+kyneton high school,Macedon Ranges (S),0.5193174942564099
+westall secondary college,Kingston (C),0.5193174942564099
+al siraat college,Whittlesea (C),0.5193174942564099
+portland secondary college,Glenelg (S),0.5193174942564099
+scoresby secondary college,Knox (C),0.5193174942564099
+timboon p-12 school,Corangamite (S),0.5193174942564099
+kyabram secondary college,Campaspe (S),0.5193174942564099
+st peters college,Casey (C),0.5193174942564099
+thomastown secondary college,Whittlesea (C),0.5193174942564099
+hampton park secondary college,Casey (C),0.5193174942564099
+cobram anglican grammar school,Moira (S),0.5193174942564099
+ouyen secondary college,Mildura (RC),0.5193174942564099
+phoenix p-12 community college,Ballarat (C),0.5193174942564099
+swan hill college,Swan Hill (RC),0.4534786408091921
+north geelong secondary college,Greater Geelong (C),0.4534786408091921
+carwatha college p-12,Greater Dandenong (C),0.4534786408091921
+marian college ararat,Ararat (RC),0.4534786408091921
+daylesford secondary college,Hepburn (S),0.4534786408091921
+hume central secondary college,Hume (C),0.4534786408091921
+greensborough secondary college,Banyule (C),0.4534786408091921
+macleod college,Banyule (C),0.4534786408091921
+euroa secondary college,Strathbogie (S),0.4534786408091921
+upwey high school,Yarra Ranges (S),0.4534786408091921
+bendigo senior secondary college,Greater Bendigo (C),0.4534786408091921
+mornington secondary college,Mornington Peninsula (S),0.4534786408091921
+yea high school,Murrindindi (S),0.4534786408091921
+fairhills high school,Knox (C),0.4534786408091921
+mount rowan secondary college,Ballarat (C),0.4534786408091921
+yarrawonga college p-12,Moira (S),0.4534786408091921
+bellarine secondary college,Greater Geelong (C),0.4534786408091921
+matthew flinders girls secondary college,Greater Geelong (C),0.4534786408091921
+bacchus marsh college,Moorabool (S),0.4534786408091921
+mount beauty secondary college,Alpine (S),0.4534786408091921
+upper yarra secondary college,Yarra Ranges (S),0.4534786408091921
+rutherglen high school,Indigo (S),0.4534786408091921
+officer secondary college,Cardinia (S),0.4534786408091921
+sunbury college,Hume (C),0.4534786408091921
+traralgon college,Latrobe (C),0.4534786408091921
+lalor north secondary college,Whittlesea (C),0.4534786408091921
+mount clear college,Ballarat (C),0.4534786408091921
+sale college,Wellington (S),0.4534786408091921
+geelong high school,Greater Geelong (C),0.4534786408091921
+trafalgar high school,Baw Baw (S),0.4534786408091921
+warrandyte high school,Manningham (C),0.4534786408091921
+fountain gate secondary college,Casey (C),0.4534786408091921
+kolbe catholic college,Hume (C),0.4534786408091921
+rowville secondary college,Knox (C),0.4534786408091921
+highview college,Central Goldfields (S),0.4534786408091921
+heathmont college,Maroondah (C),0.4534786408091921
+pakenham secondary college,Cardinia (S),0.4534786408091921
+mansfield secondary college,Mansfield (S),0.4534786408091921
+melton christian college,Melton (C),0.4534786408091921
+the grange p-12 college,Wyndham (C),0.4534786408091921
+lyndale secondary college,Greater Dandenong (C),0.4534786408091921
+roxburgh college,Hume (C),0.4534786408091921
+beaufort secondary college,Pyrenees (S),0.4534786408091921
+derrinallum p-12 college,Corangamite (S),0.4534786408091921
+holy trinity lutheran college,Horsham (RC),0.4534786408091921
+lakeside college,Cardinia (S),0.4534786408091921
+robinvale p-12 college,Swan Hill (RC),0.4534786408091921
+sherbrooke community school,Yarra Ranges (S),0.4534786408091921
+springside west secondary college,Melton (C),0.4534786408091921
+beechworth secondary college,Indigo (S),0.38889687020503627
+monterey secondary college,Frankston (C),0.38889687020503627
+hawkesdale college,Moyne (S),0.38889687020503627
+st arnaud secondary college,Northern Grampians (S),0.38889687020503627
+lalor secondary college,Whittlesea (C),0.38889687020503627
+lilydale heights college,Yarra Ranges (S),0.38889687020503627
+essendon keilor college,Moonee Valley (C),0.38889687020503627
+taylors lakes secondary college,Brimbank (C),0.38889687020503627
+whittlesea secondary college,Whittlesea (C),0.38889687020503627
+grovedale college,Greater Geelong (C),0.38889687020503627
+lorne p-12 college,Surf Coast (S),0.38889687020503627
+box hill senior secondary college,Whitehorse (C),0.38889687020503627
+patterson river secondary college,Frankston (C),0.38889687020503627
+yarra hills secondary college,Yarra Ranges (S),0.38889687020503627
+mount ridley p-12 college,Hume (C),0.38889687020503627
+st johns regional college,Greater Dandenong (C),0.38889687020503627
+kurunjang secondary college,Melton (C),0.38889687020503627
+noble park secondary college,Greater Dandenong (C),0.38889687020503627
+lowanna college,Latrobe (C),0.38889687020503627
+carrum downs secondary college,Frankston (C),0.38889687020503627
+edenhope college,West Wimmera (S),0.38889687020503627
+forest hill college,Whitehorse (C),0.38889687020503627
+kerang christian college,Gannawarra (S),0.38889687020503627
+st augustines college,Campaspe (S),0.38889687020503627
+woodmans hill secondary college,Ballarat (C),0.38889687020503627
+somerville secondary college,Mornington Peninsula (S),0.3272522256104079
+mill park secondary college,Whittlesea (C),0.3272522256104079
+gisborne secondary college,Macedon Ranges (S),0.3272522256104079
+charles la trobe p-12 college,Darebin (C),0.3272522256104079
+manor lakes p-12 college,Wyndham (C),0.3272522256104079
+colac secondary college,Colac-Otway (S),0.3272522256104079
+st thomas aquinas college,Cardinia (S),0.3272522256104079
+western heights college,Greater Geelong (C),0.3272522256104079
+glenroy secondary college,Moreland (C),0.3272522256104079
+tarneit senior college,Wyndham (C),0.3272522256104079
+benalla p-12 college,Benalla (RC),0.3272522256104079
+boronia k-12 college,Knox (C),0.3272522256104079
+good news lutheran college,Wyndham (C),0.3272522256104079
+lara secondary college,Greater Geelong (C),0.3272522256104079
+bayswater secondary college,Knox (C),0.2699939226730601
+craigieburn secondary college,Hume (C),0.2699939226730601
+laverton p-12 college,Hobsons Bay (C),0.2699939226730601
+east preston islamic college,Darebin (C),0.2699939226730601
+john fawkner college,Moreland (C),0.2699939226730601
+wodonga senior secondary college,Wodonga (C),0.2699939226730601
+bairnsdale secondary college,East Gippsland (S),0.2699939226730601
+cobden technical school,Corangamite (S),0.2699939226730601
+holmes secondary college,Melbourne (C),0.2699939226730601
+newcomb secondary college,Greater Geelong (C),0.2699939226730601
+stawell secondary college,Northern Grampians (S),0.2699939226730601
+western port secondary college,Mornington Peninsula (S),0.2699939226730601
+yarram secondary college,Wellington (S),0.2699939226730601
+ozford college,Melbourne (C),0.218240473533664
+baimbridge college,Southern Grampians (S),0.218240473533664
+hallam senior secondary college,Casey (C),0.218240473533664
+bundoora secondary college,Banyule (C),0.218240473533664
+nathalia secondary college,Moira (S),0.218240473533664
+numurkah secondary college,Moira (S),0.218240473533664
+red cliffs secondary college,Mildura (RC),0.218240473533664
+rushworth p-12 college,Campaspe (S),0.218240473533664
+swifts creek p-12 school,East Gippsland (S),0.218240473533664
+wallan secondary college,Mitchell (S),0.218240473533664
+northern bay p-12 college,Greater Geelong (C),0.17272093753203027
+alia college,Boroondara (C),0.1337613773732163
+sydney road community school,Moreland (C),0.1337613773732163
+hopetoun p-12 college,Yarriambiack (S),0.07501557115846119
+balmoral community college,Southern Grampians (S),0.02647211407765753
+catholic regional college caroline springs,Melton (C),0.02647211407765753
+chaffey secondary college,Mildura (RC),0.02647211407765753
+croydon community school,Maroondah (C),0.02647211407765753
+kensington community high school,Melbourne (C),0.02647211407765753
+lake bolac college,Ararat (RC),0.02647211407765753
+little yarra steiner school,Yarra Ranges (S),0.02647211407765753
+lynall hall community school,Yarra (C),0.02647211407765753
+oakwood school,Glen Eira (C),0.02647211407765753
+peter lalor secondary college,Whittlesea (C),0.02647211407765753
+bannockburn p-12 college,Golden Plains (S),0.02647211407765753
+pyramid hill college,Loddon (S),0.02647211407765753
+point cook prep - year 9 college,Wyndham (C),0.02647211407765753
+baden powell p-9 college,Wyndham (C),0.02647211407765753
+timbarra p-9 college,Casey (C),0.02647211407765753
+carranballac p-9 college,Wyndham (C),0.02647211407765753
+truganina p-9 college,Wyndham (C),0.02647211407765753
+yuille park p-8 community college,Ballarat (C),0.02647211407765753
+alamanda k-9 college,Wyndham (C),0.02647211407765753
+lavers hill k-12 college,Colac-Otway (S),0.02647211407765753
+werrimull p-12 school,Mildura (RC),0.02647211407765753
+victorian school of languages,Darebin (C),0.02647211407765753
+edgars creek secondary college,Whittlesea (C),0.02647211407765753
+elevation secondary college,Hume (C),0.02647211407765753
+irymple secondary college,Mildura (RC),0.02647211407765753
+crusoe 7-10 secondary college,Greater Bendigo (C),0.02647211407765753
+weeroona college bendigo,Greater Bendigo (C),0.02647211407765753
+beaumaris secondary college,Bayside (C),0.02647211407765753
+outdoor school,Alpine (S),0.02647211407765753
+eaglehawk secondary college,Greater Bendigo (C),0.02647211407765753
+bendigo south east 7-10 secondary college,Greater Bendigo (C),0.02647211407765753
+footscray high school,Maribyrnong (C),0.02647211407765753
+greater shepparton secondary college,Greater Shepparton (C),0.02647211407765753
+heywood district secondary college,Glenelg (S),0.02647211407765753
+prahran high school,Stonnington (C),0.02647211407765753
+preston high school,Darebin (C),0.02647211407765753
+homestead senior secondary college,Wyndham (C),0.02647211407765753
+richmond high school,Yarra (C),0.02647211407765753
+rubicon outdoor centre,Murrindindi (S),0.02647211407765753
+saltwater p-9 college,Wyndham (C),0.02647211407765753
+dohertys creek p-9 college,Wyndham (C),0.02647211407765753
+keilor downs secondary college,Brimbank (C),0.02647211407765753
+ararat secondary college,Ararat (RC),0.02647211407765753
+bayside p-12 college,Hobsons Bay (C),0.02647211407765753
+the lakes south morang college,Whittlesea (C),0.02647211407765753
+coburg high school,Moreland (C),0.02647211407765753
+wodonga middle years college,Wodonga (C),0.02647211407765753
+altona college,Hobsons Bay (C),0.02647211407765753
+dandenong high school,Greater Dandenong (C),0.02647211407765753
+merbein p-10 college,Mildura (RC),0.02647211407765753
+mernda central p-12 college,Whittlesea (C),0.02647211407765753
+featherbrook p-9 college,Wyndham (C),0.02647211407765753
+doveton college,Casey (C),0.02647211407765753
+brookside p-9 college,Melton (C),0.02647211407765753
+creekside k-9 college,Melton (C),0.02647211407765753
+tarneit p-9 college,Wyndham (C),0.02647211407765753
+st marys college,Mitchell (S),0.02647211407765753
+trinity college colac inc,Colac-Otway (S),0.02647211407765753
+saint ignatius college geelong,Greater Geelong (C),0.02647211407765753
+"preshil, the margaret lyttle memorial school",Boroondara (C),0.02647211407765753
+henderson college,Mildura (RC),0.02647211407765753
+adass israel school,Glen Eira (C),0.02647211407765753
+st marys school,Swan Hill (RC),0.02647211407765753
+st james  college,Glen Eira (C),0.02647211407765753
+st johns college preston,Darebin (C),0.02647211407765753
+olivet christian college,Mount Alexander (S),0.02647211407765753
+creek street christian college,Greater Bendigo (C),0.02647211407765753
+catholic regional college institute of training,Brimbank (C),0.02647211407765753
+catholic regional college north keilor,Brimbank (C),0.02647211407765753
+trinity lutheran college,Mildura (RC),0.02647211407765753
+river city christian college,Campaspe (S),0.02647211407765753
+australian international academy,Moreland (C),0.02647211407765753
+grace christian college wodonga,Wodonga (C),0.02647211407765753
+mansfield rudolf steiner school,Mansfield (S),0.02647211407765753
+japanese school of melbourne,Glen Eira (C),0.02647211407765753
+sophia mundi steiner school,Yarra (C),0.02647211407765753
+castlemaine steiner school & kindergarten,Mount Alexander (S),0.02647211407765753
+the kilmore international school,Mitchell (S),0.02647211407765753
+christian college bellarine,Greater Geelong (C),0.02647211407765753
+red rock christian college,Hume (C),0.02647211407765753
+christian college institute of senior education,Greater Geelong (C),0.02647211407765753
+mt hira college,Greater Dandenong (C),0.02647211407765753
+stotts colleges,Melbourne (C),0.02647211407765753
+oneschool global vic,Whittlesea (C),0.02647211407765753
+mildura christian college,Mildura (RC),0.02647211407765753
+yesodei hatorah college ,Port Phillip (C),0.02647211407765753
+shepparton ace secondary college,Greater Shepparton (C),0.02647211407765753
+melbourne montessori school,Glen Eira (C),0.02647211407765753
+glenroy private,Moreland (C),0.02647211407765753
+divrei emineh,Glen Eira (C),0.02647211407765753
+al iman college,Melton (C),0.02647211407765753
+seda college (victoria),Boroondara (C),0.02647211407765753
+cheder levi yitzchok inc,Port Phillip (C),0.02647211407765753
+st annes college,Greater Shepparton (C),0.02647211407765753
+village high school,Bass Coast (S),0.02647211407765753

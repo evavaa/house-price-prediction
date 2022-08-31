@@ -1,0 +1,1569 @@
+School_Name,LGA_Name,weighted_score
+beverley hills primary school,Manningham (C),1.0
+serpell primary school,Manningham (C),1.0
+oakleigh south primary school,Monash (C),1.0
+glendal primary school,Monash (C),1.0
+burwood east primary school,Whitehorse (C),1.0
+doncaster gardens primary school,Manningham (C),1.0
+balwyn primary school,Boroondara (C),1.0
+pinewood primary school,Monash (C),1.0
+canterbury primary school,Boroondara (C),1.0
+camberwell primary school,Boroondara (C),0.975
+birralee primary school,Manningham (C),0.975
+mount view primary school,Monash (C),0.975
+camelot rise primary school,Monash (C),0.975
+wheelers hill primary school,Monash (C),0.975
+preston west primary school,Darebin (C),0.975
+southmoor primary school,Kingston (C),0.975
+hampton primary school,Bayside (C),0.975
+south yarra primary school,Melbourne (C),0.975
+vermont primary school,Whitehorse (C),0.975
+deepdene primary school,Boroondara (C),0.975
+brandon park primary school,Monash (C),0.975
+wattle park primary school,Whitehorse (C),0.975
+templeton primary school,Knox (C),0.975
+kew east primary school,Boroondara (C),0.975
+balwyn north primary school,Boroondara (C),0.975
+glen waverley primary school,Monash (C),0.975
+malvern primary school,Stonnington (C),0.95
+hartwell primary school,Boroondara (C),0.95
+kerrimuir primary school,Whitehorse (C),0.95
+donburn primary school,Manningham (C),0.95
+mount waverley primary school,Monash (C),0.95
+laburnum primary school,Whitehorse (C),0.95
+mont albert primary school,Whitehorse (C),0.95
+carnegie primary school,Glen Eira (C),0.95
+highvale primary school,Monash (C),0.95
+clifton hill primary school,Yarra (C),0.95
+bentleigh west primary school,Glen Eira (C),0.95
+blackburn lake primary school,Whitehorse (C),0.95
+merri creek primary school,Yarra (C),0.95
+ivanhoe primary school,Banyule (C),0.95
+banyule primary school,Banyule (C),0.95
+eltham east primary school,Nillumbik (S),0.95
+glenferrie primary school,Boroondara (C),0.95
+malvern central school,Stonnington (C),0.95
+orchard grove primary school,Whitehorse (C),0.95
+north melbourne primary school,Melbourne (C),0.95
+carlton gardens primary school,Melbourne (C),0.95
+burwood heights primary school,Whitehorse (C),0.95
+hawthorn west primary school,Boroondara (C),0.95
+newport lakes primary school,Hobsons Bay (C),0.95
+greythorn primary school,Boroondara (C),0.95
+yarraville west primary school,Maribyrnong (C),0.95
+murrumbeena primary school,Glen Eira (C),0.95
+livingstone primary school,Whitehorse (C),0.925
+knox gardens primary school,Knox (C),0.925
+glen iris primary school,Boroondara (C),0.925
+ashburton primary school,Boroondara (C),0.925
+alphington primary school,Yarra (C),0.925
+rangeview primary school,Whitehorse (C),0.925
+westgarth primary school,Darebin (C),0.925
+templestowe park primary school,Manningham (C),0.925
+gardenvale primary school,Bayside (C),0.925
+doreen primary school,Nillumbik (S),0.925
+heidelberg primary school,Banyule (C),0.925
+richmond primary school,Yarra (C),0.925
+toorak primary school,Stonnington (C),0.925
+jells park primary school,Monash (C),0.925
+essex heights primary school,Monash (C),0.925
+syndal south primary school,Monash (C),0.925
+kensington primary school,Melbourne (C),0.925
+auburn south primary school,Boroondara (C),0.925
+thomastown east primary school,Whittlesea (C),0.925
+st kilda park primary school,Port Phillip (C),0.925
+black rock primary school,Bayside (C),0.925
+oakleigh primary school,Monash (C),0.925
+valkstone primary school,Glen Eira (C),0.925
+templestowe heights primary school,Manningham (C),0.9
+armadale primary school,Stonnington (C),0.9
+spensley street primary school,Yarra (C),0.9
+caulfield primary school,Glen Eira (C),0.9
+derinya primary school,Frankston (C),0.9
+ormond primary school,Glen Eira (C),0.9
+milgate primary school,Manningham (C),0.9
+surrey hills primary school,Whitehorse (C),0.9
+mckinnon primary school,Glen Eira (C),0.9
+hughesdale primary school,Monash (C),0.9
+camberwell south primary school,Boroondara (C),0.9
+strathmore north primary school,Moonee Valley (C),0.9
+park orchards primary school,Manningham (C),0.9
+northcote primary school,Darebin (C),0.9
+mitcham primary school,Whitehorse (C),0.9
+brentwood park primary school,Casey (C),0.9
+parkdale primary school,Kingston (C),0.9
+caulfield south primary school,Glen Eira (C),0.9
+boroondara park primary school,Boroondara (C),0.9
+wales street primary school,Darebin (C),0.9
+heathmont east primary school,Maroondah (C),0.9
+fairfield primary school,Darebin (C),0.9
+research primary school,Nillumbik (S),0.9
+parktone primary school,Kingston (C),0.875
+lloyd street primary school,Stonnington (C),0.875
+seabrook primary school,Hobsons Bay (C),0.875
+sandringham east primary school,Bayside (C),0.875
+weeden heights primary school,Whitehorse (C),0.875
+antonio park primary school,Whitehorse (C),0.875
+carlton north primary school,Yarra (C),0.875
+cheltenham east primary school,Kingston (C),0.875
+cheltenham primary school,Bayside (C),0.875
+doncaster primary school,Manningham (C),0.875
+fitzroy north primary school,Yarra (C),0.875
+coatesville primary school,Glen Eira (C),0.875
+middle park primary school,Port Phillip (C),0.875
+ivanhoe east primary school,Banyule (C),0.875
+blackburn primary school,Whitehorse (C),0.875
+chatham primary school,Boroondara (C),0.875
+montmorency south primary school,Banyule (C),0.875
+williamstown north primary school,Hobsons Bay (C),0.875
+mountain gate primary school,Knox (C),0.875
+solway primary school,Boroondara (C),0.875
+glen waverley south primary school,Monash (C),0.875
+glen huntly primary school,Glen Eira (C),0.875
+viewbank primary school,Banyule (C),0.875
+kingston heath primary school,Kingston (C),0.875
+preston primary school,Darebin (C),0.875
+brighton primary school,Bayside (C),0.85
+mount eliza north primary school,Mornington Peninsula (S),0.85
+kororoit creek primary school,Melton (C),0.85
+sandringham primary school,Bayside (C),0.85
+st kilda primary school,Port Phillip (C),0.85
+kew primary school,Boroondara (C),0.85
+auburn primary school,Boroondara (C),0.85
+brighton beach primary school,Bayside (C),0.85
+wembley primary school,Maribyrnong (C),0.85
+mount waverley heights primary school,Monash (C),0.85
+whitehorse primary school,Whitehorse (C),0.85
+dandenong north primary school,Greater Dandenong (C),0.85
+watsonia heights primary school,Banyule (C),0.85
+brunswick south west primary school,Moreland (C),0.85
+old orchard primary school,Whitehorse (C),0.85
+aspendale primary school,Kingston (C),0.85
+donvale primary school,Manningham (C),0.85
+huntingdale primary school,Monash (C),0.85
+mordialloc beach primary school,Kingston (C),0.85
+caulfield junior college,Glen Eira (C),0.85
+selby primary school,Yarra Ranges (S),0.85
+footscray west primary school,Maribyrnong (C),0.85
+coburg north primary school,Moreland (C),0.85
+footscray city primary school,Maribyrnong (C),0.825
+sassafras primary school,Yarra Ranges (S),0.825
+albert park primary school,Port Phillip (C),0.825
+elwood primary school,Port Phillip (C),0.825
+eltham north primary school,Nillumbik (S),0.825
+essendon primary school,Moonee Valley (C),0.825
+williamstown primary school,Hobsons Bay (C),0.825
+greenhills primary school,Banyule (C),0.825
+andersons creek primary school,Manningham (C),0.825
+croydon hills primary school,Maroondah (C),0.825
+thomas mitchell primary school,Casey (C),0.825
+kingswood primary school,Kingston (C),0.825
+wonga park primary school,Manningham (C),0.825
+moorabbin primary school,Kingston (C),0.825
+belle vue primary school,Boroondara (C),0.825
+mulgrave primary school,Monash (C),0.825
+tulliallan primary school,Casey (C),0.825
+malvern valley primary school,Stonnington (C),0.8
+wandin north primary school,Yarra Ranges (S),0.8
+apollo parkways primary school,Nillumbik (S),0.8
+essendon north primary school,Moonee Valley (C),0.8
+footscray north primary school,Maribyrnong (C),0.8
+mount waverley north primary school,Monash (C),0.8
+upwey primary school,Yarra Ranges (S),0.8
+montmorency primary school,Banyule (C),0.8
+elsternwick primary school,Bayside (C),0.8
+templestowe valley primary school,Manningham (C),0.8
+ripponlea primary school,Glen Eira (C),0.8
+bell primary school,Darebin (C),0.8
+seaholme primary school,Hobsons Bay (C),0.8
+carrum primary school,Kingston (C),0.8
+coburg west primary school,Moreland (C),0.8
+watsonia north primary school,Banyule (C),0.8
+tucker road bentleigh primary school,Glen Eira (C),0.8
+beaumaris primary school,Bayside (C),0.8
+moonee ponds primary school,Moonee Valley (C),0.8
+mentone primary school,Kingston (C),0.8
+woodlands primary school,Frankston (C),0.8
+beaumaris north primary school,Bayside (C),0.8
+port melbourne primary school,Port Phillip (C),0.775
+aspendale gardens primary school,Kingston (C),0.775
+rosanna golf links primary school,Banyule (C),0.775
+kangaroo ground primary school,Nillumbik (S),0.775
+aberfeldie primary school,Moonee Valley (C),0.775
+scoresby primary school,Knox (C),0.775
+altona primary school,Hobsons Bay (C),0.775
+oatlands primary school,Casey (C),0.775
+courtenay gardens primary school,Casey (C),0.775
+park ridge primary school,Knox (C),0.775
+ringwood north primary school,Maroondah (C),0.775
+glenroy central primary school,Moreland (C),0.775
+karoo primary school,Knox (C),0.775
+brunswick north primary school,Moreland (C),0.775
+kunyung primary school,Mornington Peninsula (S),0.775
+kingsville primary school,Maribyrnong (C),0.775
+diamond creek primary school,Nillumbik (S),0.775
+yarra primary school,Yarra (C),0.775
+flemington primary school,Moonee Valley (C),0.775
+bayswater south primary school,Knox (C),0.75
+westbreen primary school,Moreland (C),0.75
+mullum primary school,Maroondah (C),0.75
+wantirna south primary school,Knox (C),0.75
+box hill north primary school,Whitehorse (C),0.75
+pascoe vale primary school,Moreland (C),0.75
+bonbeach primary school,Kingston (C),0.75
+avondale primary school,Moonee Valley (C),0.75
+emerald primary school,Cardinia (S),0.75
+roberts mccubbin primary school,Whitehorse (C),0.75
+alberton primary school,Wellington (S),0.5
+allansford and district primary school,Warrnambool (C),0.5
+avoca primary school,Pyrenees (S),0.5
+avenel primary school,Strathbogie (S),0.5
+warrandyte primary school,Manningham (C),0.5
+belmont primary school,Greater Geelong (C),0.5
+bacchus marsh primary school,Moorabool (S),0.5
+ballarat primary school (dana street),Ballarat (C),0.5
+wodonga primary school,Wodonga (C),0.5
+berwick primary school,Casey (C),0.5
+beaufort primary school,Pyrenees (S),0.5
+cudgee primary school,Moyne (S),0.5
+cavendish primary school,Southern Grampians (S),0.5
+colac primary school,Colac-Otway (S),0.5
+castlemaine primary school,Mount Alexander (S),0.5
+campbells creek primary school,Mount Alexander (S),0.5
+creswick primary school,Hepburn (S),0.5
+california gully primary school,Greater Bendigo (C),0.5
+st andrews primary school,Nillumbik (S),0.5
+warrnambool west primary school,Warrnambool (C),0.5
+dromana primary school,Mornington Peninsula (S),0.5
+echuca primary school,Campaspe (S),0.5
+eltham primary school,Nillumbik (S),0.5
+eaglehawk primary school,Greater Bendigo (C),0.5
+elphinstone primary school,Mount Alexander (S),0.5
+hallam primary school,Casey (C),0.5
+footscray primary school,Maribyrnong (C),0.5
+gisborne primary school,Macedon Ranges (S),0.5
+wandiligong primary school,Alpine (S),0.5
+grovedale primary school,Greater Geelong (C),0.5
+hamilton (gray street) primary school,Southern Grampians (S),0.5
+heathcote primary school,Greater Bendigo (C),0.5
+highton primary school,Greater Geelong (C),0.5
+huntly primary school,Greater Bendigo (C),0.5
+bellbrae primary school,Surf Coast (S),0.5
+chiltern primary school,Indigo (S),0.5
+kyneton primary school,Macedon Ranges (S),0.5
+romsey primary school,Macedon Ranges (S),0.5
+shelford primary school,Golden Plains (S),0.5
+lockwood south primary school,Greater Bendigo (C),0.5
+marong primary school,Greater Bendigo (C),0.5
+mount macedon primary school,Macedon Ranges (S),0.5
+mount clear primary school,Ballarat (C),0.5
+melton primary school,Melton (C),0.5
+fitzroy primary school,Yarra (C),0.5
+newstead primary school,Mount Alexander (S),0.5
+newlyn primary school,Hepburn (S),0.5
+new gisborne primary school,Macedon Ranges (S),0.5
+beeac primary school,Colac-Otway (S),0.5
+coburg primary school,Moreland (C),0.5
+penshurst primary school,Southern Grampians (S),0.5
+myrniong primary school,Moorabool (S),0.5
+mernda primary school,Whittlesea (C),0.5
+portland primary school,Glenelg (S),0.5
+stawell primary school,Northern Grampians (S),0.5
+rutherglen primary school,Indigo (S),0.5
+riddells creek primary school,Macedon Ranges (S),0.5
+rokewood primary school,Golden Plains (S),0.5
+geelong east primary school,Greater Geelong (C),0.5
+sale primary school,Wellington (S),0.5
+skipton primary school,Corangamite (S),0.5
+stratford primary school,Wellington (S),0.5
+taradale primary school,Mount Alexander (S),0.5
+koroit and district primary school,Moyne (S),0.5
+tylden primary school,Macedon Ranges (S),0.5
+thomastown primary school,Whittlesea (C),0.5
+wangaratta primary school,Wangaratta (RC),0.5
+wahgunyah primary school,Indigo (S),0.5
+woodend primary school,Macedon Ranges (S),0.5
+woodford primary school,Warrnambool (C),0.5
+werribee primary school,Wyndham (C),0.5
+winters flat primary school,Mount Alexander (S),0.5
+wooragee primary school,Indigo (S),0.5
+wallan primary school,Mitchell (S),0.5
+woolsthorpe primary school,Moyne (S),0.5
+yandoit primary school,Hepburn (S),0.5
+yarram primary school,Wellington (S),0.5
+pleasant street primary school (ballarat),Ballarat (C),0.5
+yea primary school,Murrindindi (S),0.5
+lancefield primary school,Macedon Ranges (S),0.5
+coimadai primary school,Moorabool (S),0.5
+birregurra primary school,Colac-Otway (S),0.5
+clayton north primary school,Monash (C),0.5
+milawa primary school,Wangaratta (RC),0.5
+lockwood primary school,Greater Bendigo (C),0.5
+bealiba primary school,Central Goldfields (S),0.5
+bairnsdale primary school,East Gippsland (S),0.5
+gordon primary school,Moorabool (S),0.5
+hepburn primary school,Hepburn (S),0.5
+lara lake primary school,Greater Geelong (C),0.5
+rosedale primary school,Wellington (S),0.5
+rochester primary school,Campaspe (S),0.5
+ararat primary school,Ararat (RC),0.5
+jamieson primary school,Mansfield (S),0.5
+preston south primary school,Darebin (C),0.5
+omeo primary school,East Gippsland (S),0.5
+harrietville primary school,Alpine (S),0.5
+healesville primary school,Yarra Ranges (S),0.5
+toongabbie primary school,Latrobe (C),0.5
+waubra primary school,Pyrenees (S),0.5
+great western primary school,Northern Grampians (S),0.5
+maffra primary school,Wellington (S),0.5
+broken creek primary school,Benalla (RC),0.5
+lal lal primary school,Moorabool (S),0.5
+cobden primary school,Corangamite (S),0.5
+st leonards primary school,Greater Geelong (C),0.5
+lilydale primary school,Yarra Ranges (S),0.5
+bendigo primary school,Greater Bendigo (C),0.5
+darraweit guim primary school,Macedon Ranges (S),0.5
+linton primary school,Golden Plains (S),0.5
+invermay primary school,Ballarat (C),0.5
+mitta mitta primary school,Towong (S),0.5
+greenvale primary school,Hume (C),0.5
+alexandra primary school,Murrindindi (S),0.5
+rockbank primary school,Melton (C),0.5
+talbot primary school,Central Goldfields (S),0.5
+yarra glen primary school,Yarra Ranges (S),0.5
+elmhurst primary school,Ararat (RC),0.5
+kangaroo flat primary school,Greater Bendigo (C),0.5
+westmeadows primary school,Hume (C),0.5
+sunbury primary school,Hume (C),0.5
+hesket primary school,Macedon Ranges (S),0.5
+axedale primary school,Greater Bendigo (C),0.5
+tarnagulla primary school,Loddon (S),0.5
+carisbrook primary school,Central Goldfields (S),0.5
+wandin yallock primary school,Yarra Ranges (S),0.5
+yering primary school,Yarra Ranges (S),0.5
+dartmoor primary school,Glenelg (S),0.5
+mickleham primary school,Hume (C),0.5
+inglewood primary school,Loddon (S),0.5
+chewton primary school,Mount Alexander (S),0.5
+bolinda primary school,Macedon Ranges (S),0.5
+napoleons primary school,Golden Plains (S),0.5
+haddon primary school,Golden Plains (S),0.5
+panmure primary school,Moyne (S),0.5
+sorrento primary school,Mornington Peninsula (S),0.5
+alfredton primary school,Ballarat (C),0.5
+bridgewater primary school,Loddon (S),0.5
+hastings primary school,Mornington Peninsula (S),0.5
+yackandandah primary school,Indigo (S),0.5
+nagambie primary school,Strathbogie (S),0.5
+heyfield primary school,Wellington (S),0.5
+mansfield primary school,Mansfield (S),0.5
+middle indigo primary school,Indigo (S),0.5
+briagolong primary school,Wellington (S),0.5
+lindenow primary school,East Gippsland (S),0.5
+broadford primary school,Mitchell (S),0.5
+murchison primary school,Greater Shepparton (C),0.5
+panton hill primary school,Nillumbik (S),0.5
+glen park primary school,Moorabool (S),0.5
+concongella primary school,Northern Grampians (S),0.5
+bruthen primary school,East Gippsland (S),0.5
+swan hill primary school,Swan Hill (RC),0.5
+porepunkah primary school,Alpine (S),0.5
+leopold primary school,Greater Geelong (C),0.5
+inverleigh primary school,Golden Plains (S),0.5
+trawalla primary school,Pyrenees (S),0.5
+quarry hill primary school,Greater Bendigo (C),0.5
+sebastopol primary school,Ballarat (C),0.5
+woodside primary school,Wellington (S),0.5
+noorat primary school,Corangamite (S),0.5
+boneo primary school,Mornington Peninsula (S),0.5
+queenscliff primary school,Queenscliffe (B),0.5
+portland north primary school,Glenelg (S),0.5
+timor primary school,Central Goldfields (S),0.5
+apsley primary school,West Wimmera (S),0.5
+strathfieldsaye primary school,Greater Bendigo (C),0.5
+skye primary school,Frankston (C),0.5
+tooborac primary school,Mitchell (S),0.5
+lucknow primary school,East Gippsland (S),0.5
+upper plenty primary school,Mitchell (S),0.5
+maldon primary school,Mount Alexander (S),0.5
+woori yallock primary school,Yarra Ranges (S),0.5
+moyston primary school,Ararat (RC),0.5
+buninyong primary school,Ballarat (C),0.5
+marysville primary school,Murrindindi (S),0.5
+langley primary school,Mount Alexander (S),0.5
+wandong primary school,Mitchell (S),0.5
+cowes primary school,Bass Coast (S),0.5
+bullarto primary school,Hepburn (S),0.5
+lismore primary school,Corangamite (S),0.5
+lower plenty primary school,Banyule (C),0.5
+specimen hill primary school,Greater Bendigo (C),0.5
+bolwarra primary school,Glenelg (S),0.5
+navarre primary school,Northern Grampians (S),0.5
+warracknabeal primary school,Yarriambiack (S),0.5
+moyhu primary school,Wangaratta (RC),0.5
+natte yallock primary school,Pyrenees (S),0.5
+christmas hills primary school,Nillumbik (S),0.5
+tallangatta primary school,Towong (S),0.5
+kialla central primary school,Greater Shepparton (C),0.5
+mount eliza primary school,Mornington Peninsula (S),0.5
+san remo primary school,Bass Coast (S),0.5
+dimboola primary school,Hindmarsh (S),0.5
+whorouly primary school,Wangaratta (RC),0.5
+merrijig primary school,Mansfield (S),0.5
+lethbridge primary school,Golden Plains (S),0.5
+oxley primary school,Wangaratta (RC),0.5
+dandenong primary school,Greater Dandenong (C),0.5
+malmsbury primary school,Macedon Ranges (S),0.5
+kerang primary school,Gannawarra (S),0.5
+drouin west primary school,Baw Baw (S),0.5
+meredith primary school,Golden Plains (S),0.5
+edi upper primary school,Wangaratta (RC),0.5
+eaglehawk north primary school,Greater Bendigo (C),0.5
+mooroopna primary school,Greater Shepparton (C),0.5
+cairnlea park primary school,Brimbank (C),0.5
+ballan primary school,Moorabool (S),0.5
+mount pleasant primary school,Ballarat (C),0.5
+tatura primary school,Greater Shepparton (C),0.5
+toolamba primary school,Greater Shepparton (C),0.5
+harston primary school,Greater Shepparton (C),0.5
+osbornes flat primary school,Indigo (S),0.5
+frankston primary school,Frankston (C),0.5
+donald primary school,Buloke (S),0.5
+beveridge primary school,Mitchell (S),0.5
+cape clear primary school,Golden Plains (S),0.5
+warburton primary school,Yarra Ranges (S),0.5
+tallarook primary school,Mitchell (S),0.5
+barnawartha primary school,Indigo (S),0.5
+ashby primary school,Greater Geelong (C),0.5
+tooradin primary school,Casey (C),0.5
+elmore primary school,Greater Bendigo (C),0.5
+dookie primary school,Greater Shepparton (C),0.5
+natimuk primary school,Horsham (RC),0.5
+big hill primary school,Greater Bendigo (C),0.5
+clunes primary school,Hepburn (S),0.5
+marnoo primary school,Northern Grampians (S),0.5
+beechworth primary school,Indigo (S),0.5
+ardmona primary school,Greater Shepparton (C),0.5
+kilmore primary school,Mitchell (S),0.5
+macarthur primary school,Moyne (S),0.5
+barwon heads primary school,Greater Geelong (C),0.5
+keilor primary school,Brimbank (C),0.5
+dunolly primary school,Central Goldfields (S),0.5
+springhurst primary school,Wangaratta (RC),0.5
+dixons creek primary school,Yarra Ranges (S),0.5
+trentham district primary school,Hepburn (S),0.5
+warrenheip primary school,Ballarat (C),0.5
+maiden gully primary school,Greater Bendigo (C),0.5
+rupanyup primary school,Yarriambiack (S),0.5
+goornong primary school,Greater Bendigo (C),0.5
+ceres primary school,Greater Geelong (C),0.5
+daylesford primary school,Hepburn (S),0.5
+mooroopna north primary school,Greater Shepparton (C),0.5
+swan reach primary school,East Gippsland (S),0.5
+amphitheatre primary school,Pyrenees (S),0.5
+deans marsh primary school,Surf Coast (S),0.5
+drysdale primary school,Greater Geelong (C),0.5
+st arnaud primary school,Northern Grampians (S),0.5
+nullawarre and district primary school,Moyne (S),0.5
+macedon primary school,Macedon Ranges (S),0.5
+arthurs creek primary school,Nillumbik (S),0.5
+rye primary school,Mornington Peninsula (S),0.5
+buxton primary school,Murrindindi (S),0.5
+moonambel primary school,Pyrenees (S),0.5
+baringhup primary school,Mount Alexander (S),0.5
+longford primary school,Wellington (S),0.5
+harkaway primary school,Casey (C),0.5
+balnarring primary school,Mornington Peninsula (S),0.5
+carraragarmungee primary school,Wangaratta (RC),0.5
+euroa primary school,Strathbogie (S),0.5
+shepparton east primary school,Greater Shepparton (C),0.5
+nicholson primary school,East Gippsland (S),0.5
+kialla west primary school,Greater Shepparton (C),0.5
+miners rest primary school,Ballarat (C),0.5
+glenrowan primary school,Wangaratta (RC),0.5
+warrnambool primary school,Warrnambool (C),0.5
+devenish primary school,Benalla (RC),0.5
+undera primary school,Greater Shepparton (C),0.5
+dederang primary school,Alpine (S),0.5
+eppalock primary school,Greater Bendigo (C),0.5
+silvan primary school,Yarra Ranges (S),0.5
+wendouree primary school,Ballarat (C),0.5
+lancaster primary school,Campaspe (S),0.5
+raywood primary school,Greater Bendigo (C),0.5
+drummond primary school,Hepburn (S),0.5
+puckapunyal primary school,Mitchell (S),0.5
+landsborough primary school,Pyrenees (S),0.5
+lysterfield primary school,Knox (C),0.5
+winton primary school,Benalla (RC),0.5
+merrigum primary school,Greater Shepparton (C),0.5
+bethanga primary school,Towong (S),0.5
+abbotsford primary school,Yarra (C),0.5
+newtown primary school,Greater Geelong (C),0.5
+windsor primary school,Stonnington (C),0.5
+narre warren north primary school,Casey (C),0.5
+buchan primary school,East Gippsland (S),0.5
+anakie primary school,Greater Geelong (C),0.5
+moolap primary school,Greater Geelong (C),0.5
+newham primary school,Macedon Ranges (S),0.5
+plenty parklands primary school,Whittlesea (C),0.5
+white hills primary school,Greater Bendigo (C),0.5
+mount egerton primary school,Moorabool (S),0.5
+drouin primary school,Baw Baw (S),0.5
+wunghnu primary school,Moira (S),0.5
+maroona primary school,Ararat (RC),0.5
+jindivick primary school,Baw Baw (S),0.5
+talgarno primary school,Towong (S),0.5
+bungaree primary school,Moorabool (S),0.5
+little river primary school,Wyndham (C),0.5
+cowwarr primary school,Wellington (S),0.5
+morang south primary school,Whittlesea (C),0.5
+camp hill primary school,Greater Bendigo (C),0.5
+pyalong primary school,Mitchell (S),0.5
+winchelsea primary school,Surf Coast (S),0.5
+buln buln primary school,Baw Baw (S),0.5
+macarthur street primary school,Ballarat (C),0.5
+elliminyt primary school,Colac-Otway (S),0.5
+mornington primary school,Mornington Peninsula (S),0.5
+hamilton north primary school,Southern Grampians (S),0.5
+mount blowhard primary school,Ballarat (C),0.5
+creswick north primary school,Hepburn (S),0.5
+black hill primary school,Ballarat (C),0.5
+castlemaine north primary school,Mount Alexander (S),0.5
+yarrambat primary school,Nillumbik (S),0.5
+casterton primary school,Glenelg (S),0.5
+nathalia primary school,Moira (S),0.5
+chilwell primary school,Greater Geelong (C),0.5
+greensborough primary school,Banyule (C),0.5
+teesdale primary school,Golden Plains (S),0.5
+cranbourne primary school,Casey (C),0.5
+katamatite primary school,Moira (S),0.5
+buangor primary school,Ararat (RC),0.5
+leitchville primary school,Gannawarra (S),0.5
+whittlesea primary school,Whittlesea (C),0.5
+little bendigo primary school,Ballarat (C),0.5
+urquhart park primary school,Ballarat (C),0.5
+warragul primary school,Baw Baw (S),0.5
+traralgon south primary school,Latrobe (C),0.5
+coleraine primary school,Southern Grampians (S),0.5
+lake charm primary school,Gannawarra (S),0.5
+ripplebrook primary school,Baw Baw (S),0.5
+numurkah primary school,Moira (S),0.5
+moe (albert street) primary school,Latrobe (C),0.5
+geelong south primary school,Greater Geelong (C),0.5
+bayswater primary school,Knox (C),0.5
+minyip primary school,Yarriambiack (S),0.5
+yarragon primary school,Baw Baw (S),0.5
+tyers primary school,Latrobe (C),0.5
+trafalgar primary school,Baw Baw (S),0.5
+kinglake primary school,Murrindindi (S),0.5
+ellinbank primary school,Baw Baw (S),0.5
+tambo upper primary school,East Gippsland (S),0.5
+baranduda primary school,Wodonga (C),0.5
+tungamah primary school,Moira (S),0.5
+bunyip primary school,Cardinia (S),0.5
+gunbower primary school,Campaspe (S),0.5
+nar nar goon primary school,Cardinia (S),0.5
+toora primary school,South Gippsland (S),0.5
+montrose primary school,Yarra Ranges (S),0.5
+koondrook primary school,Gannawarra (S),0.5
+katunga south primary school,Moira (S),0.5
+magpie primary school,Ballarat (C),0.5
+tawonga primary school,Alpine (S),0.5
+narracan primary school,Baw Baw (S),0.5
+drouin south primary school,Baw Baw (S),0.5
+eskdale primary school,Towong (S),0.5
+darnum primary school,Baw Baw (S),0.5
+moorooduc primary school,Mornington Peninsula (S),0.5
+the basin primary school,Knox (C),0.5
+paynesville primary school,East Gippsland (S),0.5
+epsom primary school,Greater Bendigo (C),0.5
+hazelwood north primary school,Latrobe (C),0.5
+mirboo north primary school,South Gippsland (S),0.5
+yinnar primary school,Latrobe (C),0.5
+neerim south primary school,Baw Baw (S),0.5
+portarlington primary school,Greater Geelong (C),0.5
+menzies creek primary school,Yarra Ranges (S),0.5
+labertouche primary school,Baw Baw (S),0.5
+diggers rest primary school,Melton (C),0.5
+longwarry primary school,Baw Baw (S),0.5
+gembrook primary school,Cardinia (S),0.5
+wurruk primary school,Wellington (S),0.5
+willow grove primary school,Baw Baw (S),0.5
+hoddles creek primary school,Yarra Ranges (S),0.5
+beaconsfield upper primary school,Cardinia (S),0.5
+congupna primary school,Greater Shepparton (C),0.5
+redesdale mia mia primary school,Greater Bendigo (C),0.5
+launching place primary school,Yarra Ranges (S),0.5
+ascot vale primary school,Moonee Valley (C),0.5
+boolarra primary school,Latrobe (C),0.5
+rosebud primary school,Mornington Peninsula (S),0.5
+koo wee rup primary school,Cardinia (S),0.5
+osborne primary school,Mornington Peninsula (S),0.5
+somerville primary school,Mornington Peninsula (S),0.5
+willaura primary school,Ararat (RC),0.5
+echuca east primary school,Campaspe (S),0.5
+lakes entrance primary school,East Gippsland (S),0.5
+myrrhee primary school,Wangaratta (RC),0.5
+longwood primary school,Strathbogie (S),0.5
+forrest primary school,Colac-Otway (S),0.5
+nilma primary school,Baw Baw (S),0.5
+garfield primary school,Cardinia (S),0.5
+yinnar south primary school,Latrobe (C),0.5
+officer primary school,Cardinia (S),0.5
+brunswick south primary school,Moreland (C),0.5
+orbost primary school,East Gippsland (S),0.5
+inverloch primary school,Bass Coast (S),0.5
+strathmerton primary school,Moira (S),0.5
+laharum primary school,Horsham (RC),0.5
+walwa primary school,Towong (S),0.5
+seville primary school,Yarra Ranges (S),0.5
+moreland primary school,Moreland (C),0.5
+tanjil south primary school,Baw Baw (S),0.5
+pomonal primary school,Ararat (RC),0.5
+glengarry primary school,Latrobe (C),0.5
+lang lang primary school,Cardinia (S),0.5
+croydon primary school,Maroondah (C),0.5
+moonee ponds west primary school,Moonee Valley (C),0.5
+loch primary school,South Gippsland (S),0.5
+mildura primary school,Mildura (RC),0.5
+newmerella primary school,East Gippsland (S),0.5
+princes hill primary school,Yarra (C),0.5
+gruyere primary school,Yarra Ranges (S),0.5
+pearcedale primary school,Casey (C),0.5
+lindenow south primary school,East Gippsland (S),0.5
+thorpdale primary school,Baw Baw (S),0.5
+st albans primary school,Brimbank (C),0.5
+leongatha primary school,South Gippsland (S),0.5
+jeparit primary school,Hindmarsh (S),0.5
+baxter primary school,Mornington Peninsula (S),0.5
+fish creek and district primary school,South Gippsland (S),0.5
+beaconsfield primary school,Cardinia (S),0.5
+metung primary school,East Gippsland (S),0.5
+newhaven primary school,Bass Coast (S),0.5
+halls gap primary school,Northern Grampians (S),0.5
+tallygaroopna primary school,Greater Shepparton (C),0.5
+korumburra primary school,South Gippsland (S),0.5
+crib point primary school,Mornington Peninsula (S),0.5
+flowerdale primary school,Murrindindi (S),0.5
+ocean grove primary school,Greater Geelong (C),0.5
+beulah primary school,Yarriambiack (S),0.5
+sunshine primary school,Brimbank (C),0.5
+tyabb primary school,Mornington Peninsula (S),0.5
+upper sandy creek primary school,Indigo (S),0.5
+nichols point primary school,Mildura (RC),0.5
+irymple primary school,Mildura (RC),0.5
+brunswick east primary school,Moreland (C),0.5
+eagle point primary school,East Gippsland (S),0.5
+yarra junction primary school,Yarra Ranges (S),0.5
+ferny creek primary school,Yarra Ranges (S),0.5
+toolangi primary school,Murrindindi (S),0.5
+kinglake west primary school,Murrindindi (S),0.5
+perseverance primary school,Unincorporated Vic,0.5
+monbulk primary school,Yarra Ranges (S),0.5
+lake boga primary school,Swan Hill (RC),0.5
+chum creek primary school,Yarra Ranges (S),0.5
+mount dandenong primary school,Yarra Ranges (S),0.5
+nullawil primary school,Buloke (S),0.5
+badger creek primary school,Yarra Ranges (S),0.5
+middle kinglake primary school,Murrindindi (S),0.5
+point lonsdale primary school,Queenscliffe (B),0.5
+kongwak primary school,South Gippsland (S),0.5
+clarinda primary school,Kingston (C),0.5
+chelsea heights primary school,Kingston (C),0.5
+wallington primary school,Greater Geelong (C),0.5
+tecoma primary school,Yarra Ranges (S),0.5
+torquay p-6 college,Surf Coast (S),0.5
+nyora primary school,South Gippsland (S),0.5
+exford primary school,Melton (C),0.5
+ultima primary school,Swan Hill (RC),0.5
+marlo primary school,East Gippsland (S),0.5
+wesburn primary school,Yarra Ranges (S),0.5
+koorlong primary school,Mildura (RC),0.5
+warranwood primary school,Maroondah (C),0.5
+willowmavin primary school,Mitchell (S),0.5
+olinda primary school,Yarra Ranges (S),0.5
+carlisle river primary school,Colac-Otway (S),0.5
+spring gully primary school,Greater Bendigo (C),0.5
+langwarrin primary school,Frankston (C),0.5
+cockatoo primary school,Cardinia (S),0.5
+tyabb railway station primary school,Mornington Peninsula (S),0.5
+belgrave south primary school,Yarra Ranges (S),0.5
+sydenham - hillside primary school,Brimbank (C),0.5
+the lake primary school,Mildura (RC),0.5
+grey street primary school (traralgon),Latrobe (C),0.5
+fawkner primary school,Moreland (C),0.5
+bona vista primary school,Baw Baw (S),0.5
+banyan fields primary school,Frankston (C),0.5
+norris bank primary school,Whittlesea (C),0.5
+macclesfield primary school,Yarra Ranges (S),0.5
+mount evelyn primary school,Yarra Ranges (S),0.5
+kilsyth primary school,Yarra Ranges (S),0.5
+wonthaggi primary school,Bass Coast (S),0.5
+spotswood primary school,Hobsons Bay (C),0.5
+clyde primary school,Casey (C),0.5
+noble park primary school,Greater Dandenong (C),0.5
+clifton creek primary school,East Gippsland (S),0.5
+kennington primary school,Greater Bendigo (C),0.5
+cardinia primary school,Cardinia (S),0.5
+grahamvale primary school,Greater Shepparton (C),0.5
+irymple south primary school,Mildura (RC),0.5
+nanneella estate primary school,Campaspe (S),0.5
+wantirna primary school,Knox (C),0.5
+wonthaggi north primary school,Bass Coast (S),0.5
+melton south primary school,Melton (C),0.5
+chelsea primary school,Kingston (C),0.5
+nowa nowa primary school,East Gippsland (S),0.5
+balliang east primary school,Moorabool (S),0.5
+edithvale primary school,Kingston (C),0.5
+orrvale primary school,Greater Shepparton (C),0.5
+penders grove primary school,Darebin (C),0.5
+underbool primary school,Mildura (RC),0.5
+seaford primary school,Frankston (C),0.5
+murrabit group school,Gannawarra (S),0.5
+thornbury primary school,Darebin (C),0.5
+currawa primary school,Greater Shepparton (C),0.5
+devon meadows primary school,Casey (C),0.5
+upper ferntree gully primary school,Knox (C),0.5
+eildon primary school,Murrindindi (S),0.5
+bittern primary school,Mornington Peninsula (S),0.5
+colbinabbin primary school,Campaspe (S),0.5
+stanhope primary school,Campaspe (S),0.5
+hurstbridge primary school,Nillumbik (S),0.5
+dhurringile primary school,Greater Shepparton (C),0.5
+strathewen primary school,Nillumbik (S),0.5
+don valley primary school,Yarra Ranges (S),0.5
+reservoir primary school,Darebin (C),0.5
+yallourn north primary school,Latrobe (C),0.5
+toorloo arm primary school,East Gippsland (S),0.5
+girgarre primary school,Campaspe (S),0.5
+yaapeet primary school,Yarriambiack (S),0.5
+gladysdale primary school,Yarra Ranges (S),0.5
+mildura west primary school,Mildura (RC),0.5
+kallista primary school,Yarra Ranges (S),0.5
+ascot vale west primary school,Moonee Valley (C),0.5
+red cliffs primary school,Mildura (RC),0.5
+wattle glen primary school,Nillumbik (S),0.5
+hampton park primary school,Casey (C),0.5
+colac west primary school,Colac-Otway (S),0.5
+noojee primary school,Baw Baw (S),0.5
+moriac primary school,Surf Coast (S),0.5
+red cliffs east primary school,Mildura (RC),0.5
+bayswater north primary school,Maroondah (C),0.5
+airly primary school,Wellington (S),0.5
+merrivale primary school,Warrnambool (C),0.5
+dandenong west primary school,Greater Dandenong (C),0.5
+yarra road primary school,Maroondah (C),0.5
+manifold heights primary school,Greater Geelong (C),0.5
+nungurner primary school,East Gippsland (S),0.5
+dingley primary school,Kingston (C),0.5
+cardross primary school,Mildura (RC),0.5
+albion primary school,Brimbank (C),0.5
+lemnos primary school,Greater Shepparton (C),0.5
+tarwin lower primary school,South Gippsland (S),0.5
+seaspray primary school,Wellington (S),0.5
+anglesea primary school,Surf Coast (S),0.5
+briar hill primary school,Banyule (C),0.5
+zeerust primary school,Greater Shepparton (C),0.5
+clayton south primary school,Kingston (C),0.5
+cobains primary school,Wellington (S),0.5
+mildura south primary school,Mildura (RC),0.5
+tate street primary school geelong,Greater Geelong (C),0.5
+brunswick north west primary school,Moreland (C),0.5
+katandra west primary school,Greater Shepparton (C),0.5
+fleetwood primary school,Casey (C),0.5
+somers primary school,Mornington Peninsula (S),0.5
+rosanna primary school,Banyule (C),0.5
+strathmore primary school,Moonee Valley (C),0.5
+wangaratta west primary school,Wangaratta (RC),0.5
+mount beauty primary school,Alpine (S),0.5
+newlands primary school,Darebin (C),0.5
+somers school camp,Mornington Peninsula (S),0.5
+newborough primary school,Latrobe (C),0.5
+traralgon (stockdale road) primary school,Latrobe (C),0.5
+gowrie street primary school shepparton,Greater Shepparton (C),0.5
+tootgarook primary school,Mornington Peninsula (S),0.5
+moe (south street) primary school,Latrobe (C),0.5
+roslyn primary school,Greater Geelong (C),0.5
+newport gardens primary school,Hobsons Bay (C),0.5
+st georges road primary school shepparton,Greater Shepparton (C),0.5
+newborough east primary school,Latrobe (C),0.5
+herne hill primary school,Greater Geelong (C),0.5
+frankston east primary school,Frankston (C),0.5
+reservoir east primary school,Darebin (C),0.5
+katunga primary school,Moira (S),0.5
+ballarat north primary school,Ballarat (C),0.5
+bandiana primary school,Wodonga (C),0.5
+warragul north primary school,Baw Baw (S),0.5
+horsham west and haven primary school,Horsham (RC),0.5
+traralgon (kosciuszko street) primary school,Latrobe (C),0.5
+traralgon (liddiard road) primary school,Latrobe (C),0.5
+eastwood primary school,Maroondah (C),0.5
+pascoe vale south primary school,Moreland (C),0.5
+lalor primary school,Whittlesea (C),0.5
+reservoir west primary school,Darebin (C),0.5
+ferntree gully north primary school,Knox (C),0.5
+ararat west primary school,Ararat (RC),0.5
+oak park primary school,Moreland (C),0.5
+bairnsdale west primary school,East Gippsland (S),0.5
+harrisfield primary school,Greater Dandenong (C),0.5
+pascoe vale north primary school,Moreland (C),0.5
+oberon primary school,Greater Geelong (C),0.5
+moe primary school,Latrobe (C),0.5
+st albans east primary school,Brimbank (C),0.5
+bourchier street primary school shepparton,Greater Shepparton (C),0.5
+swan hill north primary school,Swan Hill (RC),0.5
+sunshine heights primary school,Brimbank (C),0.5
+sunshine north primary school,Brimbank (C),0.5
+portland south primary school,Glenelg (S),0.5
+cranbourne south primary school,Casey (C),0.5
+yarrunga primary school,Wangaratta (RC),0.5
+preston north east primary school,Darebin (C),0.5
+orbost north primary school,East Gippsland (S),0.5
+craigieburn primary school,Hume (C),0.5
+warrnambool east primary school,Warrnambool (C),0.5
+colac south west primary school,Colac-Otway (S),0.5
+george street primary school - hamilton,Southern Grampians (S),0.5
+overport primary school,Frankston (C),0.5
+heatherhill primary school,Greater Dandenong (C),0.5
+hamlyn banks primary school,Greater Geelong (C),0.5
+yarraman oaks primary school,Greater Dandenong (C),0.5
+mount pleasant road nunawading primary school,Whitehorse (C),0.5
+glenroy west primary school,Moreland (C),0.5
+dandenong south primary school,Greater Dandenong (C),0.5
+st albans north primary school,Brimbank (C),0.5
+wodonga west primary school,Wodonga (C),0.5
+frankston heights primary school,Frankston (C),0.5
+east bentleigh primary school,Glen Eira (C),0.5
+watsonia primary school,Banyule (C),0.5
+kingsbury primary school,Darebin (C),0.5
+ardeer primary school,Brimbank (C),0.5
+westall primary school,Kingston (C),0.5
+tullamarine primary school,Hume (C),0.5
+guthridge primary school,Wellington (S),0.5
+albion north primary school,Brimbank (C),0.5
+rollins primary school,Greater Geelong (C),0.5
+bellaire primary school,Greater Geelong (C),0.5
+broadmeadows primary school,Hume (C),0.5
+moomba park primary school,Moreland (C),0.5
+keilor heights primary school,Moonee Valley (C),0.5
+ainslie parklands primary school,Maroondah (C),0.5
+parkmore primary school,Whitehorse (C),0.5
+lara primary school,Greater Geelong (C),0.5
+cranbourne park primary school,Casey (C),0.5
+upwey south primary school,Yarra Ranges (S),0.5
+simpson primary school,Corangamite (S),0.5
+invergordon primary school,Moira (S),0.5
+belvedere park primary school,Frankston (C),0.5
+fairhills primary school,Knox (C),0.5
+boronia west primary school,Knox (C),0.5
+ringwood heights primary school,Maroondah (C),0.5
+ruskin park primary school,Maroondah (C),0.5
+fyans park primary school,Greater Geelong (C),0.5
+karingal primary school,Frankston (C),0.5
+altona north primary school,Hobsons Bay (C),0.5
+stawell west primary school,Northern Grampians (S),0.5
+forest street primary school,Ballarat (C),0.5
+pembroke primary school,Yarra Ranges (S),0.5
+mahogany rise primary school,Frankston (C),0.5
+wilmot road primary school shepparton,Greater Shepparton (C),0.5
+bundoora primary school,Banyule (C),0.5
+university park primary school,Brimbank (C),0.5
+st albans heights primary school,Brimbank (C),0.5
+kerang south primary school,Gannawarra (S),0.5
+mentone park primary school,Kingston (C),0.5
+bell park north primary school,Greater Geelong (C),0.5
+boronia heights primary school,Knox (C),0.5
+churchill primary school,Latrobe (C),0.5
+montpellier primary school,Greater Geelong (C),0.5
+seaford north primary school,Frankston (C),0.5
+morwell park primary school,Latrobe (C),0.5
+lalor east primary school,Whittlesea (C),0.5
+carlton primary school,Melbourne (C),0.5
+oberon south primary school,Greater Geelong (C),0.5
+wooranna park primary school,Greater Dandenong (C),0.5
+knox park primary school,Knox (C),0.5
+ararat north primary school,Ararat (RC),0.5
+thomastown west primary school,Whittlesea (C),0.5
+rowville primary school,Knox (C),0.5
+mossfiel primary school,Wyndham (C),0.5
+ballam park primary school,Frankston (C),0.5
+sunbury west primary school,Hume (C),0.5
+gladstone park primary school,Hume (C),0.5
+manchester primary school,Yarra Ranges (S),0.5
+bimbadeen heights primary school,Yarra Ranges (S),0.5
+wattle view primary school,Knox (C),0.5
+sherbourne primary school,Banyule (C),0.5
+guthrie street primary school shepparton,Greater Shepparton (C),0.5
+araluen primary school,Wellington (S),0.5
+deer park west primary school,Brimbank (C),0.5
+campbellfield heights primary school,Hume (C),0.5
+lalor north primary school,Whittlesea (C),0.5
+melton west primary school,Melton (C),0.5
+diamond creek east primary school,Nillumbik (S),0.5
+bayswater west primary school,Knox (C),0.5
+mornington park primary school,Mornington Peninsula (S),0.5
+wodonga south primary school,Wodonga (C),0.5
+aldercourt primary school,Frankston (C),0.5
+richmond west primary school,Yarra (C),0.5
+marlborough primary school,Maroondah (C),0.5
+stevensville primary school,Brimbank (C),0.5
+birmingham primary school,Yarra Ranges (S),0.5
+woodville primary school,Wyndham (C),0.5
+glengala primary school,Brimbank (C),0.5
+karingal heights primary school,Frankston (C),0.5
+wallarano primary school,Greater Dandenong (C),0.5
+victoria road primary school,Yarra Ranges (S),0.5
+mooroolbark east primary school,Yarra Ranges (S),0.5
+ardeer south primary school,Brimbank (C),0.5
+gladesville primary school,Yarra Ranges (S),0.5
+falls creek primary school,Unincorporated Vic,0.5
+debney meadows primary school,Moonee Valley (C),0.5
+fountain gate primary school,Casey (C),0.5
+tinternvale primary school,Maroondah (C),0.5
+grovedale west primary school,Greater Geelong (C),0.5
+kent park primary school,Knox (C),0.5
+deer park north primary school,Brimbank (C),0.5
+rosewood downs primary school,Greater Dandenong (C),0.5
+mooroopna park primary school,Greater Shepparton (C),0.5
+coburn primary school,Melton (C),0.5
+manorvale primary school,Wyndham (C),0.5
+gladstone views primary school,Hume (C),0.5
+broadmeadows valley primary school,Hume (C),0.5
+waverley meadows primary school,Monash (C),0.5
+churchill north primary school,Latrobe (C),0.5
+st albans meadows primary school,Brimbank (C),0.5
+silverton primary school,Greater Dandenong (C),0.5
+kalinda primary school,Maroondah (C),0.5
+whittington primary school,Greater Geelong (C),0.5
+coldstream primary school,Yarra Ranges (S),0.5
+river gum primary school,Casey (C),0.5
+regency park primary school,Knox (C),0.5
+dorset primary school,Maroondah (C),0.5
+eastbourne primary school,Mornington Peninsula (S),0.5
+thomastown meadows primary school,Whittlesea (C),0.5
+kingsley park primary school,Frankston (C),0.5
+james cook primary school,Casey (C),0.5
+movelle primary school,Brimbank (C),0.5
+melrose primary school,Wodonga (C),0.5
+iramoo primary school,Wyndham (C),0.5
+mill park primary school,Whittlesea (C),0.5
+mount martha primary school,Mornington Peninsula (S),0.5
+altona meadows primary school,Hobsons Bay (C),0.5
+the patch primary school,Yarra Ranges (S),0.5
+albanvale primary school,Brimbank (C),0.5
+kismet park primary school,Hume (C),0.5
+mandama primary school,Greater Geelong (C),0.5
+bethal primary school,Hume (C),0.5
+cranbourne west primary school,Casey (C),0.5
+patterson lakes primary school,Kingston (C),0.5
+seaford park primary school,Frankston (C),0.5
+billanook primary school,Yarra Ranges (S),0.5
+chirnside park primary school,Yarra Ranges (S),0.5
+bass valley primary school,Bass Coast (S),0.5
+sunbury heights primary school,Hume (C),0.5
+darley primary school,Moorabool (S),0.5
+delacombe primary school,Ballarat (C),0.5
+wallaroo primary school,Mornington Peninsula (S),0.5
+mossgiel park primary school,Casey (C),0.5
+wedge park primary school,Melton (C),0.5
+appin park primary school,Wangaratta (RC),0.5
+berwick lodge primary school,Casey (C),0.5
+botanic ridge primary school,Casey (C),0.5
+meadow heights primary school,Hume (C),0.5
+bundarra primary school,Glenelg (S),0.5
+chalcot lodge primary school,Casey (C),0.5
+rangebank primary school,Casey (C),0.5
+southern cross primary school,Casey (C),0.5
+kings park primary school,Brimbank (C),0.5
+rolling hills primary school,Yarra Ranges (S),0.5
+craigieburn south primary school,Hume (C),0.5
+findon primary school,Whittlesea (C),0.5
+loch sport primary school,Wellington (S),0.5
+goonawarra primary school,Hume (C),0.5
+bellbridge primary school,Wyndham (C),0.5
+kurunjang primary school,Melton (C),0.5
+langwarrin park primary school,Frankston (C),0.5
+taylors lakes primary school,Brimbank (C),0.5
+glen katherine primary school,Banyule (C),0.5
+clifton springs primary school,Greater Geelong (C),0.5
+meadowglen primary school,Whittlesea (C),0.5
+altona green primary school,Hobsons Bay (C),0.5
+coral park primary school,Casey (C),0.5
+maramba primary school,Casey (C),0.5
+mackellar primary school,Brimbank (C),0.5
+berwick fields primary school,Casey (C),0.5
+cambridge primary school,Wyndham (C),0.5
+rowellyn park primary school,Frankston (C),0.5
+mill park heights primary school,Whittlesea (C),0.5
+monmia primary school,Brimbank (C),0.5
+willmott park primary school,Hume (C),0.5
+thomas chirnside primary school,Wyndham (C),0.5
+heany park primary school,Knox (C),0.5
+ranfurly primary school,Mildura (RC),0.5
+kilberry valley primary school,Casey (C),0.5
+killara primary school,Hume (C),0.5
+surfside primary school,Greater Geelong (C),0.5
+riverwalk primary school,Wyndham (C),0.5
+westgrove primary school,Wyndham (C),0.5
+peranbin primary college,Strathbogie (S),0.5
+pentland primary school,Moorabool (S),0.5
+pakenham hills primary school,Cardinia (S),0.5
+somerville rise primary school,Mornington Peninsula (S),0.5
+branxholme-wallacedale community school,Southern Grampians (S),0.5
+mount duneed regional primary school,Greater Geelong (C),0.5
+grasmere primary school,Moyne (S),0.5
+narrawong district primary school,Glenelg (S),0.5
+canadian lead primary school,Ballarat (C),0.5
+caledonian primary school,Ballarat (C),0.5
+grayling primary school,Casey (C),0.5
+tempy primary school,Yarriambiack (S),0.5
+rawson primary school,Baw Baw (S),0.5
+bundalaguah primary school,Wellington (S),0.5
+lardner and district primary school,Baw Baw (S),0.5
+neerim district rural primary school,Baw Baw (S),0.5
+nambrok denison primary school,Wellington (S),0.5
+welshpool and district primary school,South Gippsland (S),0.5
+whitfield district primary school,Wangaratta (RC),0.5
+greta valley primary school,Wangaratta (RC),0.5
+everton primary school,Wangaratta (RC),0.5
+waaia yalca south primary school,Moira (S),0.5
+nangiloc colignan and district primary school,Mildura (RC),0.5
+harcourt valley primary school,Mount Alexander (S),0.5
+beverford district primary school,Swan Hill (RC),0.5
+niddrie primary school,Moonee Valley (C),0.5
+lucas primary school,Ballarat (C),0.5
+toolern vale and district primary school,Melton (C),0.5
+parkhill primary school,Monash (C),0.5
+kananook primary school,Frankston (C),0.5
+tarwin valley primary school,South Gippsland (S),0.5
+bayles regional primary school,Cardinia (S),0.5
+le page primary school,Kingston (C),0.5
+powlett river primary school,Bass Coast (S),0.5
+carrington primary school,Knox (C),0.5
+albany rise primary school,Monash (C),0.5
+amsleigh park primary school,Monash (C),0.5
+knox central primary school,Knox (C),0.5
+streeton primary school,Banyule (C),0.5
+woorinen district primary school,Swan Hill (RC),0.5
+woady yaloak primary school,Golden Plains (S),0.5
+millwarra primary school,Yarra Ranges (S),0.5
+gormandale and district primary school,Wellington (S),0.5
+roxburgh homestead primary school,Hume (C),0.5
+newcomb park primary school,Greater Geelong (C),0.5
+dinjerra primary school,Maribyrnong (C),0.5
+belle vue park primary school,Moreland (C),0.5
+nyah district primary school,Swan Hill (RC),0.5
+strathaird primary school,Casey (C),0.5
+great ryrie primary school,Maroondah (C),0.5
+parkwood green primary school,Melton (C),0.5
+hillsmeade primary school,Casey (C),0.5
+roxburgh park primary school,Hume (C),0.5
+benton junior college,Mornington Peninsula (S),0.5
+roxburgh rise primary school,Hume (C),0.5
+lynbrook primary school,Casey (C),0.5
+laurimar primary school,Whittlesea (C),0.5
+truganina south primary school,Wyndham (C),0.5
+harvest home primary school,Whittlesea (C),0.5
+burnside primary school,Melton (C),0.5
+berwick chase primary school,Casey (C),0.5
+pakenham lakeside primary school,Cardinia (S),0.5
+davis creek primary school,Wyndham (C),0.5
+pakenham springs primary school,Cardinia (S),0.5
+taylors hill primary school,Melton (C),0.5
+cranbourne carlisle primary school,Casey (C),0.5
+derrimut primary school,Brimbank (C),0.5
+epping views primary school,Whittlesea (C),0.5
+echuca twin rivers primary school,Campaspe (S),0.5
+cranbourne east primary school,Casey (C),0.5
+lyndhurst primary school,Casey (C),0.5
+aitken creek primary school,Hume (C),0.5
+reservoir views primary school,Darebin (C),0.5
+meadows primary school,Hume (C),0.5
+mernda park primary school,Whittlesea (C),0.5
+sunshine harvester primary school,Brimbank (C),0.5
+pakenham primary school,Cardinia (S),0.5
+golden square primary school,Greater Bendigo (C),0.5
+lalor gardens primary school,Whittlesea (C),0.5
+chandler park primary school,Greater Dandenong (C),0.5
+keysborough primary school,Greater Dandenong (C),0.5
+lyndale greens primary school,Greater Dandenong (C),0.5
+athol road primary school,Greater Dandenong (C),0.5
+springvale rise primary school,Greater Dandenong (C),0.5
+spring parks primary school,Greater Dandenong (C),0.5
+keilor views primary school,Brimbank (C),0.5
+wyndham park primary school,Wyndham (C),0.5
+lightning reef primary school,Greater Bendigo (C),0.5
+william ruthven primary school,Darebin (C),0.5
+newbury primary school,Hume (C),0.5
+dallas brooks community primary school,Hume (C),0.5
+horsham primary school,Horsham (RC),0.5
+wyndham vale primary school,Wyndham (C),0.5
+epping primary school,Whittlesea (C),0.5
+coolaroo south primary school,Hume (C),0.5
+torquay coast primary school,Surf Coast (S),0.5
+arnolds creek primary school,Melton (C),0.5
+wilandra rise primary school,Casey (C),0.5
+south melbourne primary school,Port Phillip (C),0.5
+barton primary school,Casey (C),0.5
+john henry primary school,Cardinia (S),0.5
+south melbourne park primary school,Port Phillip (C),0.5
+bridgewood primary school,Cardinia (S),0.5
+armstrong creek school,Greater Geelong (C),0.5
+aireys inlet primary school,Surf Coast (S),0.5
+aitken hill primary school,Hume (C),0.5
+morwell central primary school,Latrobe (C),0.5
+ashley park primary school,Whittlesea (C),0.5
+casey fields primary school,Casey (C),0.5
+mirripoa primary school,Greater Geelong (C),0.5
+keysborough gardens primary school,Greater Dandenong (C),0.5
+alvie consolidated school,Colac-Otway (S),0.5
+boisdale consolidated school,Wellington (S),0.5
+cobram primary school,Moira (S),0.5
+cohuna consolidated school,Gannawarra (S),0.5
+dunkeld consolidated school,Southern Grampians (S),0.5
+foster primary school,South Gippsland (S),0.5
+heywood consolidated school,Glenelg (S),0.5
+kiewa valley primary school,Indigo (S),0.5
+lockington consolidated school,Campaspe (S),0.5
+merino consolidated school,Glenelg (S),0.5
+pakenham consolidated school,Cardinia (S),0.5
+poowong consolidated school,South Gippsland (S),0.5
+port fairy consolidated school,Moyne (S),0.5
+red hill consolidated school,Mornington Peninsula (S),0.5
+tongala primary school,Campaspe (S),0.5
+tarneit rise primary school,Wyndham (C),0.5
+springside primary school,Melton (C),0.5
+st patricks school,Ballarat (C),0.5
+st alipius parish school,Ballarat (C),0.5
+st marys school,Mansfield (S),0.5
+sacred heart school,Hobsons Bay (C),0.5
+st marys school,Hobsons Bay (C),0.5
+st michaels school,Melbourne (C),0.5
+st patricks school,Wangaratta (RC),0.5
+st marys school,Port Phillip (C),0.5
+st brendans school,Moonee Valley (C),0.5
+st augustines school,Central Goldfields (S),0.5
+st marys school,East Gippsland (S),0.5
+st aloysius school,Ballarat (C),0.5
+st josephs school,Boroondara (C),0.5
+st josephs school,Darebin (C),0.5
+sacred heart school,Darebin (C),0.5
+sacred heart school,Latrobe (C),0.5
+st michaels school,Latrobe (C),0.5
+st brendans school,Greater Shepparton (C),0.5
+st marys school,Buloke (S),0.5
+st marys primary school,Wellington (S),0.5
+st patricks primary school,Mitchell (S),0.5
+st brigids school,Moorabool (S),0.5
+st patricks school,Moorabool (S),0.5
+st marys school,Macedon Ranges (S),0.5
+st augustines school,Hepburn (S),0.5
+tarrington lutheran school,Southern Grampians (S),0.5
+st monicas school,Greater Bendigo (C),0.5
+st josephs school,Benalla (RC),0.5
+st brendans primary school,Moorabool (S),0.5
+st patricks school,Northern Grampians (S),0.5
+st james school,Bayside (C),0.5
+st peters school,Glen Eira (C),0.5
+st liborius school,Greater Bendigo (C),0.5
+st marys school,Mount Alexander (S),0.5
+st ambroses school,Macedon Ranges (S),0.5
+st josephs school,Buloke (S),0.5
+sacred heart school,Greater Shepparton (C),0.5
+christ church grammar school,Melbourne (C),0.5
+st pauls school,Moreland (C),0.5
+st andrews school,Wyndham (C),0.5
+st brigids school,Macedon Ranges (S),0.5
+our lady of mount carmel school,Hume (C),0.5
+st josephs school,Indigo (S),0.5
+st marys school,Indigo (S),0.5
+st marys school,Loddon (S),0.5
+st patricks school,Cardinia (S),0.5
+sacred heart primary school,Moira (S),0.5
+st josephs school,Southern Grampians (S),0.5
+sacred heart school,Glenelg (S),0.5
+st bernards school,Moorabool (S),0.5
+st patricks school,Moyne (S),0.5
+sacred heart school,Yarra (C),0.5
+st monicas school,Maribyrnong (C),0.5
+st augustines school,Maribyrnong (C),0.5
+st michael & st johns school,Horsham (RC),0.5
+st marys school,Colac-Otway (S),0.5
+st johns school,Yarra (C),0.5
+st josephs school,Moira (S),0.5
+st josephs school,Warrnambool (C),0.5
+st marys school,Greater Geelong (C),0.5
+st patricks school,Greater Geelong (C),0.5
+st monicas primary school,Moonee Valley (C),0.5
+st patricks school,Yarra Ranges (S),0.5
+st josephs school,Yarra (C),0.5
+st marys school,Yarriambiack (S),0.5
+st marys school,Campaspe (S),0.5
+sacred heart school,Boroondara (C),0.5
+st marys school,Ararat (RC),0.5
+st patricks school,Moyne (S),0.5
+st josephs school,Campaspe (S),0.5
+all saints parish school,Glenelg (S),0.5
+our holy redeemer school,Boroondara (C),0.5
+our lady of the sacred heart primary,Greater Bendigo (C),0.5
+st josephs school,Indigo (S),0.5
+st josephs school,Southern Grampians (S),0.5
+st patricks school,Corangamite (S),0.5
+st michaels school,Hepburn (S),0.5
+st marys school,Southern Grampians (S),0.5
+st kilians school,Greater Bendigo (C),0.5
+st augustines school,Wodonga (C),0.5
+st patricks school,Northern Grampians (S),0.5
+st patricks school,Kingston (C),0.5
+st thomas school,Corangamite (S),0.5
+st josephs school,Baw Baw (S),0.5
+st josephs school,Greater Bendigo (C),0.5
+st johns school,Banyule (C),0.5
+st josephs school,Moreland (C),0.5
+st brigids school,Kingston (C),0.5
+st columbas school,Ballarat (C),0.5
+our lady help of christians school,Moreland (C),0.5
+st anthonys school,Glen Eira (C),0.5
+st marys school,Greater Dandenong (C),0.5
+sacred heart school,Bayside (C),0.5
+st josephs school,Bass Coast (S),0.5
+st marys school,Moonee Valley (C),0.5
+st josephs school,Gannawarra (S),0.5
+st margaret marys school,Moreland (C),0.5
+st francis xavier school,Ballarat (C),0.5
+st laurence otoole school,South Gippsland (S),0.5
+st josephs school,South Gippsland (S),0.5
+westbourne grammar school,Hobsons Bay (C),0.5
+st brigids school,Yarra Ranges (S),0.5
+st james school,Cardinia (S),0.5
+st marys school,Stonnington (C),0.5
+holy rosary school,Melbourne (C),0.5
+st aloysius school,Queenscliffe (B),0.5
+st anthonys school,Darebin (C),0.5
+st josephs school,Stonnington (C),0.5
+st marys school,Wellington (S),0.5
+holy rosary school,Greater Bendigo (C),0.5
+st columbas school,Port Phillip (C),0.5
+our lady of the rosary,Macedon Ranges (S),0.5
+st marys school,Swan Hill (RC),0.5
+st marys school,Mornington Peninsula (S),0.5
+st brendans school,Colac-Otway (S),0.5
+our lady of the immaculate conception school,Brimbank (C),0.5
+st marys school,Darebin (C),0.5
+st johns school,Warrnambool (C),0.5
+st aloysius school,Glen Eira (C),0.5
+st joan of arc school,Bayside (C),0.5
+st johns school,Strathbogie (S),0.5
+st johns school,Maribyrnong (C),0.5
+st josephs school,Moira (S),0.5
+mary immaculate school,Banyule (C),0.5
+st josephs school,Strathbogie (S),0.5
+our lady of lourdes school,Stonnington (C),0.5
+st josephs school,East Gippsland (S),0.5
+st marys school,Alpine (S),0.5
+st thereses school,Moonee Valley (C),0.5
+sacred heart school,Murrindindi (S),0.5
+our lady of good counsel school,Boroondara (C),0.5
+st kevins school,Glen Eira (C),0.5
+st josephs school,Kingston (C),0.5
+st finbars school,Bayside (C),0.5
+st dominics school,Boroondara (C),0.5
+st marys school,Bayside (C),0.5
+holy rosary school,Greater Bendigo (C),0.5
+st marys school,Gannawarra (S),0.5
+st josephs school,Mornington Peninsula (S),0.5
+st fidelis school,Moreland (C),0.5
+st francis xaviers school,Whitehorse (C),0.5
+st marys school,Hobsons Bay (C),0.5
+our lady help of christians school,Nillumbik (S),0.5
+our lady of the sacred heart school,Mildura (RC),0.5
+st francis xavier school,Frankston (C),0.5
+st gabriels school,Darebin (C),0.5
+st pauls school,Glen Eira (C),0.5
+st josephs school,Bayside (C),0.5
+st patricks school,Wellington (S),0.5
+st josephs school,Baw Baw (S),0.5
+st patricks school,Glen Eira (C),0.5
+st rochs school,Stonnington (C),0.5
+st annes school,Boroondara (C),0.5
+our lady of perpetual help school,Maroondah (C),0.5
+st francis xaviers school,Banyule (C),0.5
+st josephs school,Mornington Peninsula (S),0.5
+st cecilias school,Boroondara (C),0.5
+st josephs school,Glen Eira (C),0.5
+st josephs school,Mildura (RC),0.5
+st peters school,Whittlesea (C),0.5
+sacred heart school,Monash (C),0.5
+st marks school,Moreland (C),0.5
+st john the baptist school,Knox (C),0.5
+st johns school,Whitehorse (C),0.5
+st marys school,Greater Shepparton (C),0.5
+st raphaels school,Darebin (C),0.5
+st john the baptists school,Cardinia (S),0.5
+st vincent de pauls school,Moonee Valley (C),0.5
+st josephs school,Greater Dandenong (C),0.5
+holy name school,Darebin (C),0.5
+st bernards school,Moreland (C),0.5
+st benedicts school,Whitehorse (C),0.5
+st oliver plunketts school,Moreland (C),0.5
+corpus christi school,Maribyrnong (C),0.5
+st roberts school,Greater Geelong (C),0.5
+st michaels school,Boroondara (C),0.5
+st marys school,Moorabool (S),0.5
+st bedes school,Boroondara (C),0.5
+st patricks school,Hindmarsh (S),0.5
+st margarets school,Greater Geelong (C),0.5
+st kierans school,Latrobe (C),0.5
+st theresas school,Brimbank (C),0.5
+st bernadettes school,Banyule (C),0.5
+st colmans school,Moyne (S),0.5
+st agnes school,Bayside (C),0.5
+our lady of the assumption school,Kingston (C),0.5
+nunawading christian college-primary,Whitehorse (C),0.5
+sacred heart school,Maroondah (C),0.5
+st malachys school,West Wimmera (S),0.5
+st marys school,Murrindindi (S),0.5
+resurrection house,Moonee Valley (C),0.5
+holy spirit school,Darebin (C),0.5
+sacred heart school,Brimbank (C),0.5
+st thomas the apostle school,Whitehorse (C),0.5
+st marys school,Campaspe (S),0.5
+st michaels school,Wellington (S),0.5
+st thomas aquinas school,Greater Geelong (C),0.5
+st pius x school,Banyule (C),0.5
+st margaret marys school,Hobsons Bay (C),0.5
+st mary magdalens parish primary school,Monash (C),0.5
+st anthonys school,Greater Dandenong (C),0.5
+st peters school,Monash (C),0.5
+st josephs school,Yarriambiack (S),0.5
+st john boscos school,Moonee Valley (C),0.5
+holy family school,Greater Geelong (C),0.5
+holy spirit parish school,Greater Geelong (C),0.5
+st marys school,Banyule (C),0.5
+mother of god school,Brimbank (C),0.5
+st peter chanel school,Brimbank (C),0.5
+christ the king primary school,Maribyrnong (C),0.5
+corpus christi school,Moreland (C),0.5
+st pauls school,Brimbank (C),0.5
+st patricks school,Loddon (S),0.5
+stella maris school,Bayside (C),0.5
+st thereses school,Greater Bendigo (C),0.5
+st bernadettes school,Brimbank (C),0.5
+st james school,Ballarat (C),0.5
+sacred heart school,Mildura (RC),0.5
+st margarets primary school,Maribyrnong (C),0.5
+immaculate heart of mary school,Latrobe (C),0.5
+holy family school,Monash (C),0.5
+st gerards school,Greater Dandenong (C),0.5
+st mels school,Greater Shepparton (C),0.5
+our lady of perpetual succour school,Whitehorse (C),0.5
+st catherines school,Kingston (C),0.5
+st vincent de pauls school,Latrobe (C),0.5
+st peters lutheran school,Hindmarsh (S),0.5
+st marys school,Buloke (S),0.5
+st josephs school,Yarra Ranges (S),0.5
+st stephens school,Darebin (C),0.5
+st brendans school,East Gippsland (S),0.5
+st martin of tours school,Banyule (C),0.5
+st michaels school,Towong (S),0.5
+christ our holy redeemer school,Monash (C),0.5
+our lady of the nativity school,Moonee Valley (C),0.5
+our ladys school,Wangaratta (RC),0.5
+st dominics school,Hume (C),0.5
+st patricks school,Campaspe (S),0.5
+st bridgets school,Boroondara (C),0.5
+st leonards school,Monash (C),0.5
+st scholasticas school,Whitehorse (C),0.5
+st christophers school,Monash (C),0.5
+st john vianneys school,Kingston (C),0.5
+ss peter & pauls school,Manningham (C),0.5
+holy family school,Casey (C),0.5
+st matthews school,Moreland (C),0.5
+st john vianneys school,Monash (C),0.5
+st lukes school,Whittlesea (C),0.5
+st francis de sales school,Moreland (C),0.5
+st johns lutheran school geelong,Greater Geelong (C),0.5
+st thomas mores school,Yarra Ranges (S),0.5
+st pius x school,Warrnambool (C),0.5
+st christophers school,Moonee Valley (C),0.5
+sacred heart school,Colac-Otway (S),0.5
+sacred heart school,Nillumbik (S),0.5
+st michaels school,Casey (C),0.5
+our lady of the way school,Darebin (C),0.5
+st luke the evangelist school,Whitehorse (C),0.5
+st bernards school,Wangaratta (RC),0.5
+our lady help of christians school,Yarriambiack (S),0.5
+our lady help of christians school,Ballarat (C),0.5
+st clement of rome school,Manningham (C),0.5
+st josephs primary school,Knox (C),0.5
+sacred heart school,Towong (S),0.5
+our lady of lourdes school,Knox (C),0.5
+annunciation school,Hobsons Bay (C),0.5
+st louis de montforts school,Kingston (C),0.5
+st thomas mores school,Moreland (C),0.5
+st philips school,Whitehorse (C),0.5
+holy child school,Hume (C),0.5
+st peter julian eymard,Yarra Ranges (S),0.5
+st damians school,Whittlesea (C),0.5
+christ the king school,Greater Geelong (C),0.5
+st timothys school,Whitehorse (C),0.5
+st marys school,Wellington (S),0.5
+st macartans school,Mornington Peninsula (S),0.5
+st johns school,Frankston (C),0.5
+st annes school,Frankston (C),0.5
+st martin de porres school,Moonee Valley (C),0.5
+st gregory the great school,Manningham (C),0.5
+st kevins school,Manningham (C),0.5
+st james school,Whitehorse (C),0.5
+good shepherd school,Monash (C),0.5
+st thomas school,Wellington (S),0.5
+st leo the great primary school,Hobsons Bay (C),0.5
+st peters school,Moonee Valley (C),0.5
+our lady help of christians school,Warrnambool (C),0.5
+st martin de porres school,Hobsons Bay (C),0.5
+st jude the apostle school,Knox (C),0.5
+st monicas school,Wodonga (C),0.5
+st peters school,Greater Bendigo (C),0.5
+st marks school,Kingston (C),0.5
+holy eucharist school,Brimbank (C),0.5
+st pauls primary school,Mildura (RC),0.5
+learning co-operative school,Nillumbik (S),0.5
+st peter apostle school,Wyndham (C),0.5
+sholem aleichem college,Glen Eira (C),0.5
+st john xxiii primary school,Whittlesea (C),0.5
+school of the good shepherd,Hume (C),0.5
+st agathas school,Casey (C),0.5
+resurrection school,Greater Dandenong (C),0.5
+st dominics school,Melton (C),0.5
+st francis xavier school,Greater Geelong (C),0.5
+holy spirit school,Maroondah (C),0.5
+lumen christi school,Latrobe (C),0.5
+holy saviour parish school,Whitehorse (C),0.5
+st clares school,Whittlesea (C),0.5
+nhill lutheran school,Hindmarsh (S),0.5
+st annes school,Hume (C),0.5
+our lady of the pines school,Manningham (C),0.5
+st judes school,Frankston (C),0.5
+st pauls kealba catholic school,Brimbank (C),0.5
+st elizabeths school,Greater Dandenong (C),0.5
+st joseph the worker school,Darebin (C),0.5
+resurrection school,Brimbank (C),0.5
+plenty valley international montessori school,Banyule (C),0.5
+nazareth school,Greater Geelong (C),0.5
+st augustines primary school,Brimbank (C),0.5
+st anthonys school,Melton (C),0.5
+st thomas the apostle school,Nillumbik (S),0.5
+st lukes school,Knox (C),0.5
+st peters school,Brimbank (C),0.5
+good shepherd lutheran primary school,Maroondah (C),0.5
+st thomas more school,Ballarat (C),0.5
+st marys school,Yarra Ranges (S),0.5
+st annes school,Manningham (C),0.5
+st gabriels school,Latrobe (C),0.5
+our ladys school,Hume (C),0.5
+st augustines school,Frankston (C),0.5
+st francis of assisi school,Whittlesea (C),0.5
+st johns lutheran school,Glenelg (S),0.5
+fitzroy community school,Yarra (C),0.5
+st paul apostle south school,Casey (C),0.5
+st andrews school,Kingston (C),0.5
+st thomas mores school,Mornington Peninsula (S),0.5
+st francis school,Moira (S),0.5
+st james the apostle school,Wyndham (C),0.5
+st simons school,Knox (C),0.5
+queen of peace primary school,Hobsons Bay (C),0.5
+don bosco school,Casey (C),0.5
+our lady star of the sea school,Greater Geelong (C),0.5
+village school,Maroondah (C),0.5
+sunshine christian school,Brimbank (C),0.5
+ghilgai school,Yarra Ranges (S),0.5
+st bernadettes catholic primary school,Knox (C),0.5
+st catherines school,Whittlesea (C),0.5
+st anthonys school,Greater Geelong (C),0.5
+st marys school,Whittlesea (C),0.5
+st charles borromeo school,Manningham (C),0.5
+st mary mackillop primary school,Brimbank (C),0.5
+st catherine of siena school,Melton (C),0.5
+st pauls school,Yarra Ranges (S),0.5
+our lady of fatima school,Mornington Peninsula (S),0.5
+st justins school,Monash (C),0.5
+st richards primary school,Yarra Ranges (S),0.5
+holy trinity school,Knox (C),0.5
+st paul apostle north school,Casey (C),0.5
+corpus christi school,Wyndham (C),0.5
+st therese school,Surf Coast (S),0.5
+st joachims school,Frankston (C),0.5
+holy trinity primary school,Banyule (C),0.5
+st carlo borromeo school,Hume (C),0.5
+st kevins school,Casey (C),0.5
+st thereses school,Casey (C),0.5
+st itas school,Baw Baw (S),0.5
+yarralinda school,Yarra Ranges (S),0.5
+lumen christi school,Ballarat (C),0.5
+son centre christian college,Swan Hill (RC),0.5
+st francis of the fields school,Greater Bendigo (C),0.5
+galilee regional catholic primary school,Port Phillip (C),0.5
+st brendans school,Mornington Peninsula (S),0.5
+mary mackillop school,Casey (C),0.5
+bethany catholic primary school,Wyndham (C),0.5
+good samaritan catholic primary school,Hume (C),0.5
+erasmus primary school,Boroondara (C),0.5
+holy cross primary school,Macedon Ranges (S),0.5
+st catherines primary school,Casey (C),0.5
+emmaus catholic primary school,Brimbank (C),0.5
+maharishi school of the age of enlightenment,Darebin (C),0.5
+st thomas primary school,Greater Geelong (C),0.5
+bairnsdale christian community school,East Gippsland (S),0.5
+clairvaux catholic school,Greater Geelong (C),0.5
+dandenong ranges steiner school,Cardinia (S),0.5
+ballarat steiner school,Ballarat (C),0.5
+christ the priest catholic primary school,Melton (C),0.5
+freshwater creek steiner school,Surf Coast (S),0.5
+gisborne montessori school,Macedon Ranges (S),0.5
+lumen christi school,Wyndham (C),0.5
+trinity catholic primary school,Casey (C),0.5
+columba catholic school,Cardinia (S),0.5
+cana catholic primary school,Melton (C),0.5
+st lukes catholic primary school,Greater Shepparton (C),0.5
+"st francis of assisi primary school, wodonga",Wodonga (C),0.5
+stella maris catholic primary school,Wyndham (C),0.5
+trinity catholic school,Yarra (C),0.5
+beechworth montessori school,Indigo (S),0.5
+deutsche schule melbourne,Yarra (C),0.5
+emmaus catholic primary school,Ballarat (C),0.5
+mother teresa school,Hume (C),0.5
+our lady of the southern cross,Wyndham (C),0.5
+daylesford dharma school,Hepburn (S),0.5
+st george preca school,Melton (C),0.5
+st josephs school,Whittlesea (C),0.5
+st brigids school,Cardinia (S),0.5
+st francis de sales catholic primary school,Casey (C),0.5
+st lawrence catholic primary school,Brimbank (C),0.5
+christadelphian heritage college melbourne,Knox (C),0.5
+st francis of assisi catholic primary school,Wyndham (C),0.5
+koonwarra village school,South Gippsland (S),0.5
+wild cherry school,East Gippsland (S),0.5
+australian christian college hume,Benalla (RC),0.5
+st mary of the cross mackillop catholic parish primary school,Whittlesea (C),0.5
+st mary of the cross catholic primary school,Wyndham (C),0.5
+st thomas the apostle catholic primary school,Casey (C),0.5
+st john the apostle catholic primary school,Wyndham (C),0.5
+st clares catholic primary school,Wyndham (C),0.5
+st clares primary school,Cardinia (S),0.5
+st paul the apostle catholic primary school,Whittlesea (C),0.5
+hoa nghiem primary school,Greater Dandenong (C),0.5
+harkaway hills college,Casey (C),0.5
+lumineer academy - williamstown,Hobsons Bay (C),0.5
+phillip island village school,Bass Coast (S),0.5
+siena catholic primary school,Ballarat (C),0.5
+oscar romero catholic primary school,Hume (C),0.5
+"st mary mackillop catholic primary school, bannockburn",Golden Plains (S),0.5
+our lady of the way catholic primary school,Mitchell (S),0.5
+lisieux catholic primary school,Surf Coast (S),0.5
+our lady star of the sea catholic primary school,Bass Coast (S),0.5
+maxwell creative school,Cardinia (S),0.5
+holy trinity catholic primary school,Hume (C),0.5
+glowrey catholic primary school,Whittlesea (C),0.5
+fitra community school,Kingston (C),0.5
+clyde grammar,Casey (C),0.5
+st catherine of siena catholic primary school,Greater Geelong (C),0.5
